@@ -1,7 +1,7 @@
 ---
 title: Ra ngõ gặp anh hùng
 description: Xóm tôi ngày xưa trong sân bay Tân Sơn Nhất, nơi những người hàng xóm bình thường hóa ra là các phi công anh hùng.
-pubDate: 2026-09-30
+pubDate: 2025-01-15
 tags: [family, history]
 lang: vi
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Đồ lừa dối
 description: Cuối con dốc, cái đồng hồ nói nhịp tim tôi xanh, 152. Đồ lừa dối, tôi nghĩ ngay.
-pubDate: 2026-09-30
+pubDate: 2025-01-15
 tags: [running, stories]
 lang: vi
 draft: false
