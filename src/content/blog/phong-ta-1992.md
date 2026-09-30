@@ -4,7 +4,7 @@ description: "Xem clip một người tháo tạ một bên, nhớ lại phòng 
 pubDate: 2026-07-25
 tags: [vietnam, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 _Nhân xem [clip một người tháo tạ một bên](https://www.tiktok.com/@gossip.tea0/video/7666419427721661709)
