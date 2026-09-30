@@ -1,0 +1,49 @@
+---
+title: Two pound
+description: A hot run, a bridge, a spilled beer, and a stand-off that could have gone either way.
+pubDate: 2026-09-30
+tags: [running, stories]
+draft: true
+---
+
+The run was hard. It was about 30°C, and the path sloped up to the bridge. A man
+was walking in the middle of the walkway across the bridge, a can of beer in his
+hand. Minh swerved and hit the man's hand. Focused on his run, Minh carried on,
+until he heard: “Stop!”
+
+Stopping, catching his breath, Minh turned back and faced an angry man. “Look,
+you knocked my beer off, and the beer has ruined my new trainers.”
+
+“I'm so sorry, man, it was an accident.”
+
+The man got angrier. “The path is big enough, why did you bump into me?”
+
+“It was an accident. What do you want me to do?”
+
+The man was unsure. He could not answer clearly. Finally, he mumbled something
+about paying for his beer: two pound, in his own words.
+
+I said: “Look, I don't have any money.”
+
+“You have your phone.” He looked at my phone, and stopped. It was an old and
+tatty iPhone SE 2.
+
+I kept standing there, catching my breath. Then the man moved his hand
+threateningly. I made no movement. Eventually, he turned around, probably to get
+another beer, and I turned and walked away. After about 20m, the can of beer was
+lobbed in my direction, not really at me. I kept walking, and then ran again,
+but the run had been ruined.
+
+---
+
+The encounter was pretty much a sociological study. What did the man really
+think? Perhaps he thought that guy looked soft, and he could scare him and get a
+few tenners out of the encounter. But when the other guy said he had no money,
+he, too, did not know what to do. Walking away angrily or throwing a punch:
+neither felt right. In the end, he walked away, and finally just threw the beer
+can to show his displeasure. It could have been worse. He could have punched the
+guy, and the guy could have collapsed, or something.
+
+We live in a society in which none of the outcomes is predetermined, and things
+could easily go one way or another. We depend on individuals to make the right
+decisions, and many wrongs happen because somebody makes a wrong decision.
