@@ -18,7 +18,8 @@ lý do tập như thế nào, kết quả ra sao.
 
 Phòng tập không có máy lạnh, chỉ có quạt, nhưng vẫn thấy mát mẻ.
 
-Bài học đầu tiên là: tháo tạ phải tháo hai bên cho đều.
+Bài học đầu tiên là: tháo tạ phải tháo hai bên cho đều. Không thì
+[như thế này](https://www.tiktok.com/@gossip.tea0/video/7666419427721661709).
 
 Còn nhớ phân loại: chơi thể hình hay chơi thẩm mỹ. Chơi thẩm mỹ chắc là tập cho
 cân đối, đẹp, còn chơi thể hình là tập cho cơ bắp lớn.
