@@ -4,7 +4,7 @@ description: "Tổng kết năm 2025 của siêu thị: hạng 17."
 pubDate: 2026-09-30
 tags: [food]
 lang: vi
-draft: true
+draft: false
 ---
 
 Tôi ăn nước tương có hạng: hạng 17.
