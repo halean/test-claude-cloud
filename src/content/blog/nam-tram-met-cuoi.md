@@ -38,11 +38,11 @@ nhanh, sao không nhìn đường, lỗi của mày…”, và nhiều tiếng l
 xe kia chắc biết việc, cho nên vẫn ngồi trong xe, chờ cảnh sát tới.
 
 Một lúc sau nữa, cảnh sát và cứu thương tới. Họ đỡ người phụ nữ ra khỏi chiếc xe
-vừa đâm vào cột điện, đưa vào xe cứu thương. Người phụ nữ có vẻ đau, nhưng không
+vừa đâm vào cột đèn, đưa vào xe cứu thương. Người phụ nữ có vẻ đau, nhưng không
 nguy hiểm tới tính mạng.
 
 Cảnh sát hỏi tôi: “Anh có chứng kiến vụ việc không?” Tôi nói: “Chứng kiến? Tôi
-là nạn nhân, sém tí nữa tôi méo mó như cái cột điện này.” Cô cảnh sát hỏi tôi
+là nạn nhân, sém tí nữa tôi méo mó như cái cột đèn này.” Cô cảnh sát hỏi tôi
 có thấy sao không, tôi đáp: “Tôi cảm thấy tỉnh táo, cảm thấy rõ ràng hơn bao giờ
 hết. Cô thử chạy 10km, rồi nhảy tránh khỏi xe lao thẳng vào mình, thì biết.”
 
