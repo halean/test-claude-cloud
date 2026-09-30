@@ -23,15 +23,15 @@ The man got angrier. “The path is big enough, why did you bump into me?”
 The man was unsure. He could not answer clearly. Finally, he mumbled something
 about his beer: “This beer cost me two pound.”
 
-I said: “Look, I don't have any money.”
+Minh said: “Look, I don't have any money.”
 
-“You have your phone.” He looked at my phone, and stopped. It was an old and
+“You have your phone.” He looked at Minh's phone, and stopped. It was an old and
 tatty iPhone SE 2.
 
-I kept standing there, catching my breath. Then the man moved his hand
-threateningly. I made no movement. Eventually, he turned around, probably to get
-another beer, and I turned and walked away. After about 20m, the can of beer was
-lobbed in my direction, not really at me. I kept walking, and then ran again,
+Minh kept standing there, catching his breath. Then the man moved his hand
+threateningly. Minh made no movement. Eventually, the man turned around, probably to get
+another beer, and Minh turned and walked away. After about 20m, the can of beer was
+lobbed in Minh's direction, not really at him. Minh kept walking, and then ran again,
 but the run had been ruined.
 
 ---
