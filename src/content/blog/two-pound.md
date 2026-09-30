@@ -1,7 +1,7 @@
 ---
 title: Two pound
 description: A hot run, a bridge, a spilled beer, and a stand-off that could have gone either way.
-pubDate: 2026-06-15
+pubDate: 2026-06-19
 tags: [running, stories]
 draft: false
 ---
