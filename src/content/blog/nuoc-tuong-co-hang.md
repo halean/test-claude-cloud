@@ -9,6 +9,4 @@ draft: true
 
 Tôi ăn nước tương có hạng: hạng 17.
 
-> _Your 2025 in review._
-> You were the **#17** buyer of Yutaka Organic Tamari Soy Sauce
-> in The West Midlands at Sainsbury's.
+![Màn hình tổng kết năm 2025 của Sainsbury's: “You were the #17 buyer of Yutaka Organic Tamari Soy Sauce in The West Midlands at Sainsbury's.”](../../assets/blog/nuoc-tuong-hang-17.webp)
