@@ -4,11 +4,11 @@ description: "Kefalonia: một đĩa salad nhặt nhạnh cho khách đói, mi�
 pubDate: 2025-01-15
 tags: [travel, food, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Có một dạo, nghỉ xuân nào chúng tôi cũng đi Hy Lạp: vé máy bay và chỗ ở rẻ, thuận
-tiện. Chuyến đầu tiên là tới Kefalonia, một hòn đảo ở biển Ionian.
+tiện. Chuyến đầu tiên là tới [Kefalonia](https://vi.wikipedia.org/wiki/Kefalonia), một hòn đảo ở biển Ionian.
 
 Chúng tôi đến nơi vào khoảng 2 giờ chiều, đói và mệt. Ông chủ mini resort đón
 chúng tôi. Tôi hỏi có gì ăn không. Ông bảo không, nhưng ông có thể làm hộ một ít
@@ -16,13 +16,13 @@ salad. Lần đầu ăn salad Hy Lạp thật ngon lành (đúng ra là kỳ di�
 bạn đọc sẽ nói tôi nói quá). Nguyên liệu thì có gì đâu: cà chua, dưa leo, olive,
 vài lá xà lách, phô mai sữa cừu (Feta cheese), dầu olive, vài lát bánh mì, mật
 ong, yaourt. Sau này tôi cũng biết là món salad ông dọn ra hôm đó là do ông nhặt
-nhạnh và kết hợp cả bữa sáng nhẹ lẫn Greek salad, để thỏa cơn đói của những vị
+nhạnh và kết hợp cả bữa sáng nhẹ lẫn [Greek salad](https://en.wikipedia.org/wiki/Greek_salad), để thỏa cơn đói của những vị
 khách mệt mỏi. Cũng với chừng đó nguyên liệu, nhưng sau này tôi không thể nào
 làm được một món salad ngon như thế. Có lẽ là tôi cần thêm nắng và gió biển Hy
 Lạp, những thứ tôi không thể có. Tôi cũng cần thêm cà chua chín cây, dưa leo mới
 hái, phô mai vừa cắt.
 
-Đó cũng là lần đầu tiên tôi cắn một miếng Kalamata olive, cảm giác thật bất ngờ:
+Đó cũng là lần đầu tiên tôi cắn một miếng [Kalamata olive](https://en.wikipedia.org/wiki/Kalamata_olive), cảm giác thật bất ngờ:
 gần giống như cắn vào một viên trân châu trong trà sữa, mềm, mọng, nhưng thay vì
 tròn, trong, và vị ngọt, là thuôn dài, nâu, vị béo mặn thơm đậm đà, như chắt lọc
 từ đất biển trời Hy Lạp. Đó cũng là lần đầu tôi hiểu rằng olive không chỉ là món
