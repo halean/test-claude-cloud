@@ -37,17 +37,14 @@ nhiệt độ được kiểm soát trong khoảng ±0,5°C. Post cái hình ch�
 bạn nội trợ trố mắt: món này hồi đó bà ngoại mấy bả mới làm.
 
 Càng già càng làm biếng: năm ngoái thì còn chịu khó nấu xôi ngũ sắc với chè kho.
-Năm nay chắc dẹp luôn quá.
 
 ![Mâm cúng Tết năm ngoái: xôi ngũ sắc, khay chè kho, một tô thức ăn, đĩa rau, ấm trà, ly nước, bát nhang, táo, dưa hấu và một hộp Ferrero Rocher.](../../assets/blog/tet-2024.jpg)
+
+Năm nay chắc dẹp luôn quá… or not.
+
+![Mâm Tết 2025: xôi ngũ sắc với ngôi sao vàng ở giữa, ba món màu nâu xám úp trên đĩa, một đĩa mứt phúc bồn tử đỏ với ngôi sao vàng bằng đậu xanh, một đĩa món hầm, ba ly rượu nhỏ và một ngọn nến.](../../assets/blog/tet-2025.jpg)
 
 Nồi thịt kho dưới bếp đã thơm, thôi mình xuống nhà ăn sáng đây. Lớp váng mỡ vớt
 ra sẽ cho chim chuột ăn. Tụi nó thích lắm.
 
 ![Nồi thịt kho trứng, lớp mỡ đông trắng phủ trên mặt.](../../assets/blog/noi-thit-kho.jpg)
-
----
-
-**Tái bút, Tết 2025:** nói là dẹp, rốt cuộc vẫn nấu.
-
-![Mâm Tết 2025: xôi ngũ sắc với ngôi sao vàng ở giữa, ba món màu nâu xám úp trên đĩa, một đĩa mứt phúc bồn tử đỏ với ngôi sao vàng bằng đậu xanh, một đĩa món hầm, ba ly rượu nhỏ và một ngọn nến.](../../assets/blog/tet-2025.jpg)
