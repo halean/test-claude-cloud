@@ -21,7 +21,7 @@ The man got angrier. “The path is big enough, why did you bump into me?”
 “It was an accident. What do you want me to do?”
 
 The man was unsure. He could not answer clearly. Finally, he mumbled something
-about paying for his beer: two pound, in his own words.
+about his beer: “This beer cost me two pound.”
 
 I said: “Look, I don't have any money.”
 
