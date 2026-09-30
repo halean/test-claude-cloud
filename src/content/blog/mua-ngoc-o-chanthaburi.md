@@ -4,7 +4,7 @@ description: "Một bộ đồ nghề buôn đá quý, một sàn giao dịch �
 pubDate: 2026-09-30
 tags: [travel, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Sau một đợt vợ tôi ở Việt Nam dài ngày để tránh lạnh và cải thiện sức khoẻ, tôi
