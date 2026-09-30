@@ -4,7 +4,7 @@ description: "Không biết lái xe hơi, nhà cũng không có xe hơi. Phần 
 pubDate: 2026-09-30
 tags: [travel, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Tôi không biết lái xe hơi, và nhà cũng không có xe hơi, cho nên đi lại toàn
