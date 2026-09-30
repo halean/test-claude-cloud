@@ -1,0 +1,39 @@
+---
+import { SITE_TITLE } from '../consts';
+import { url } from '../utils';
+import ThemeToggle from './ThemeToggle.astro';
+
+const links = [
+  { href: url('blog'), label: 'Writing' },
+  { href: url('tags'), label: 'Tags' },
+  { href: url('about'), label: 'About' },
+];
+const path = Astro.url.pathname.replace(/\/$/, '');
+---
+
+<header>
+  <nav class="container">
+    <a class="brand" href={url()}>{SITE_TITLE}</a>
+    <div class="links">
+      {links.map(({ href, label }) => (
+        <a href={href} aria-current={path.startsWith(href.replace(/\/$/, '')) ? 'page' : undefined}>{label}</a>
+      ))}
+      <ThemeToggle />
+    </div>
+  </nav>
+</header>
+
+<style>
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: color-mix(in srgb, var(--bg) 80%, transparent);
+    backdrop-filter: saturate(180%) blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+  nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; height: 64px; }
+  .brand { font-weight: 700; color: var(--text); text-decoration: none; letter-spacing: -0.01em; }
+  .links { display: flex; align-items: center; gap: 1.25rem; }
+  .links a { color: var(--muted); text-decoration: none; font-size: 0.95rem; font-weight: 500; }
+  .links a:hover, .links a[aria-current='page'] { color: var(--text); }
+  @media (max-width: 420px) { .links { gap: 0.85rem; } .links a { font-size: 0.9rem; } }
+</style>

@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostList from '../../components/PostList.astro';
+import { getPosts } from '../../utils';
+
+const posts = await getPosts();
+const byYear = Map.groupBy(posts, (post) => post.data.pubDate.getFullYear());
+---
+
+<BaseLayout title="Writing" description="Every post, newest first.">
+  <h1>Writing</h1>
+  <p class="muted">{posts.length} {posts.length === 1 ? 'post' : 'posts'}, newest first.</p>
+  {[...byYear].map(([year, yearPosts]) => (
+    <section>
+      <h2>{year}</h2>
+      <PostList posts={yearPosts} />
+    </section>
+  ))}
+</BaseLayout>
+
+<style>
+  h2 { margin: 3rem 0 0.5rem; font-size: 0.85rem; letter-spacing: 0.08em; color: var(--muted); }
+</style>
