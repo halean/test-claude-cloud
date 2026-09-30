@@ -146,3 +146,14 @@ pre {
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; }
 }
+
+/* Footnotes ([^1] in Markdown): small, faded, below a rule. */
+.prose .footnotes {
+  margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border);
+  font-size: 0.875rem; line-height: 1.7; color: var(--muted);
+}
+.prose .footnotes ol { padding-left: 1.25rem; }
+.prose .footnotes li { margin-bottom: 0.5rem; }
+.prose .footnotes p { margin: 0; }
+.prose sup a { text-decoration: none; font-family: var(--font-mono); font-size: 0.75em; padding: 0 0.1em; }
+.prose .data-footnote-backref, .prose [data-footnote-backref] { text-decoration: none; }
