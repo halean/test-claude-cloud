@@ -1,7 +1,7 @@
 ---
 title: Ăn thêm đi con
 description: A summer trip to Vietnam, two grandmas, a grandson who eats everything, and some squirrels in the garden.
-pubDate: 2026-09-30
+pubDate: 2026-08-15
 tags: [family]
 draft: false
 ---

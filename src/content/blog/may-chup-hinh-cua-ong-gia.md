@@ -1,7 +1,7 @@
 ---
 title: Cái máy chụp hình của ông già
 description: Năm 2009, ông già muốn một cái máy chụp hình tốt tốt để chụp tranh đua với em ổng.
-pubDate: 2026-09-30
+pubDate: 2026-09-29
 tags: [family]
 lang: vi
 draft: false
