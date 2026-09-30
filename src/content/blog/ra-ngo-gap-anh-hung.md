@@ -4,7 +4,7 @@ description: Xóm tôi ngày xưa trong sân bay Tân Sơn Nhất, nơi những 
 pubDate: 2026-09-30
 tags: [family, history]
 lang: vi
-draft: true
+draft: false
 ---
 
 Xóm tôi ngày xưa ra ngõ gặp anh hùng, theo đúng nghĩa đen.
