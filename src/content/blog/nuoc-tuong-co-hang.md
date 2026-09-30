@@ -1,7 +1,7 @@
 ---
 title: Nước tương có hạng
 description: "Tổng kết năm 2025 của siêu thị: hạng 17."
-pubDate: 2026-09-30
+pubDate: 2025-12-31
 tags: [food]
 lang: vi
 draft: false
