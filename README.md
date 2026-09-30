@@ -24,7 +24,7 @@ Requires Node 22.12 or newer.
 
 1. Set your name, tagline, and links in `src/consts.ts`.
 2. Edit the About page in `src/pages/about.md`.
-3. Replace the sample posts in `src/content/blog/`.
+3. Add posts to `src/content/blog/`.
 4. Tweak colours and fonts in `src/styles/global.css`.
 
 ## Writing a post

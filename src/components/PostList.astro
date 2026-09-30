@@ -7,6 +7,7 @@ const { posts } = Astro.props;
 const stamp = (d: Date) => d.toISOString().slice(0, 10).replaceAll('-', '.');
 ---
 
+{posts.length === 0 && <p class="empty">No records approved for release. Check back after the next review cycle.</p>}
 <ol>
   {posts.map((post) => (
     <li>
@@ -42,5 +43,7 @@ const stamp = (d: Date) => d.toISOString().slice(0, 10).replaceAll('-', '.');
     font-size: 1.6rem; line-height: 1.25; text-transform: uppercase; letter-spacing: 0.01em;
   }
   p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+  .empty { padding: 1.5rem 0; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--border); }
+  ol:empty { display: none; }
   .draft { color: var(--accent); border: 1px dashed var(--accent); padding: 0 0.35rem; }
 </style>

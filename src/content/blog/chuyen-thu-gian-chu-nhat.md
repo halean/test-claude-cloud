@@ -20,7 +20,7 @@ có một cái bánh nhỏ, hai người ngồi cạnh nhau, làm cùng một đ
 tay chạy ngang, một chiếc iPhone kê phía xa ghi lại khoảnh khắc đẹp.
 
 Minh lại cúi đầu xuống chiếc điện thoại của mình, bấm vội: “Pháo hoa đẹp rồi,
-nhưng trên iPhone xem không có âm thanh.” Claude Code agents của Minh vui vẻ
+nhưng trên iPhone xem không có âm thanh.” [Claude Code](https://claude.com/claude-code) agents của Minh vui vẻ
 giải thích: “Để xem… À, trên iPhone muốn có âm thanh mình phải làm từ chỗ người
 ta bấm, chờ tí… Rồi, 176 test chạy ngon, chờ lệnh commit.” Minh mở trang web
 mình đang làm trên phone, bấm fireworks, âm thanh và ánh sáng hoàn chỉnh. Minh
