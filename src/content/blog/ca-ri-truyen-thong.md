@@ -1,7 +1,7 @@
 ---
 title: Cà ri truyền thống
 description: Mớ ngò gần héo, quả ớt ngọt mấy tuần, hũ yaourt hết đát, ít kem không còn tươi. Và một cái nồi không.
-pubDate: 2026-09-30
+pubDate: 2026-01-15
 tags: [food]
 lang: vi
 draft: false
