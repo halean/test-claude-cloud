@@ -4,7 +4,7 @@ description: Năm 2009, ông già muốn một cái máy chụp hình tốt tố
 pubDate: 2026-09-30
 tags: [family]
 lang: vi
-draft: true
+draft: false
 ---
 
 Năm 2009, ông bà già qua chơi. Ông già bảo mua cho ổng cái máy chụp hình tốt

@@ -4,7 +4,7 @@ description: Một quán cà phê ven biển Đà Nẵng, hai cặp đôi, một
 pubDate: 2026-09-30
 tags: [stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Rời mắt khỏi màn hình điện thoại, Minh với tay lấy ly cà phê, quan sát vội các
