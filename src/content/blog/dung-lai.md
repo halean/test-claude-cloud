@@ -4,7 +4,7 @@ description: Một người đàn ông, một lốc bia, hai nhân viên bảo v
 pubDate: 2026-09-30
 tags: [running, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Cơn gió lạnh cắt qua bãi đậu xe như một lưỡi dao, nhắc nhở rằng 5°C không phải
