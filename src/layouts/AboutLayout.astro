@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { url } from '../utils';
 
 const { frontmatter } = Astro.props;
 ---
@@ -8,4 +9,13 @@ const { frontmatter } = Astro.props;
   <p class="label">On file</p>
   <h1>{frontmatter.title}</h1>
   <div class="prose"><slot /></div>
+  <p class="why">
+    <span class="label">Why this blog exists</span>
+    <a href={url('blog/living-my-dream-at-49/')}>Living my dream, at 49</a>
+    <span class="muted">· written January 2025</span>
+  </p>
 </BaseLayout>
+
+<style>
+  .why { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px dotted var(--border); display: flex; flex-wrap: wrap; gap: 0.25rem 0.75rem; align-items: baseline; }
+</style>
