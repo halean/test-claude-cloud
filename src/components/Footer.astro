@@ -1,12 +1,12 @@
 ---
-import { AUTHOR, SOCIALS } from '../consts';
+import { SITE_TITLE, SOCIALS } from '../consts';
 import { url } from '../utils';
 ---
 
 <footer class="container">
   <div>
-    <span>© {new Date().getFullYear()} {AUTHOR}</span>
-    <span class="notice">This terminal is monitored. Reading constitutes consent.</span>
+    <span>© {new Date().getFullYear()} <span lang="vi">{SITE_TITLE}</span></span>
+    <span class="notice">You have been instructed on the procedure. Thoroughly.</span>
   </div>
   <span class="socials">
     {SOCIALS.map(({ label, href }) => (

@@ -13,11 +13,11 @@ const ticker = TICKER.map((t) => t.toUpperCase()).join('  ///  ');
 ---
 
 <header>
-  <div class="ticker" aria-hidden="true">
+  <div class="ticker" aria-hidden="true" lang="vi">
     <div class="track"><span>{ticker}  ///  </span><span>{ticker}  ///  </span></div>
   </div>
   <nav class="container">
-    <a class="brand" href={url()}><span class="dot" aria-hidden="true"></span>{SITE_TITLE}</a>
+    <a class="brand" href={url()} lang="vi"><span class="dot" aria-hidden="true"></span>{SITE_TITLE}</a>
     <div class="links">
       {links.map(({ href, label }) => (
         <a href={href} aria-current={path.startsWith(href.replace(/\/$/, '')) ? 'page' : undefined}>{label}</a>

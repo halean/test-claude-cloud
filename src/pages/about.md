@@ -4,19 +4,28 @@ title: Dossier
 description: What the file says about the author.
 ---
 
-**Subject:** <span class="redact" tabindex="0">Your Name</span><br>
-**Occupation:** Writer of unsanctioned fiction<br>
-**Status:** Under observation
+**Subject:** <span class="redact" tabindex="0">một người chạy bộ</span><br>
+**Occupation:** <span lang="vi">Ai có việc gì kêu thì làm. Hôm nay chưa ai kêu.</span><br>
+**Location:** Between the UK and Vietnam<br>
+**Known condition:** <span lang="vi">Suy nghĩ quá nhiều. Thành tật rồi.</span>
 
-I write short stories about futures that are closer than they look: cities
-that watch back, systems that decide quietly, and the people who slip
-through the cracks.
+<div lang="vi">
 
-This site is where those stories get filed. New records appear whenever I
-push to GitHub.
+Tôi chạy bộ, và thường về đích ở siêu thị. Trên đường, tôi nhìn: một chiếc xe
+lao lên lề, hai nhân viên bảo vệ hô “Đứng lại!”, một cái đồng hồ nói nhịp tim
+xanh khi tôi biết là đỏ. Về nhà, tôi viết lại.
+
+Những câu chuyện ở đây kể về gia đình, về những người hàng xóm, về hai đất nước,
+về công nghệ, và về những khoảnh khắc nhỏ mà kết cục chưa bao giờ được định
+trước. Phần lớn viết bằng tiếng Việt, đôi khi bằng tiếng Anh, có khi bằng giọng
+như được dịch lại.
+
+</div>
+
+_I run, usually finishing at the supermarket. On the way, I watch. At home, I
+write it down. Stories about family, neighbours, two countries, technology, and
+small moments whose outcome was never decided in advance._
 
 ## Known channels
 
 - GitHub: [@halean](https://github.com/halean)
-
-_Edit this page in `src/pages/about.md`._
