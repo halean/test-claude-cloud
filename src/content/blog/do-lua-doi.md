@@ -1,0 +1,50 @@
+---
+title: Đồ lừa dối
+description: Cuối con dốc, cái đồng hồ nói nhịp tim tôi xanh, 152. Đồ lừa dối, tôi nghĩ ngay.
+pubDate: 2026-09-30
+tags: [running, stories]
+lang: vi
+draft: true
+---
+
+Tôi có một mối quan hệ vừa yêu vừa ghét với các con dốc khi chạy bộ. Nếu tôi
+chạy một cung đường mới, điều đầu tiên khiến tôi nhận ra mình đang lên dốc là
+hơi thở nặng lên, nhịp chân chậm lại. Lên hết con dốc lúc nào cũng là một cảm
+giác phấn khích khác thường. Tôi chạy nhiều con dốc nhỏ: 2%, 5% (cỡ 1km). Con
+dốc lớn (10%) tôi chỉ chạy được 200m.
+
+Hôm nay, chạy tới cuối con dốc 2%, tôi liếc nhìn cái đồng hồ Polar Vantage M, để
+xem nhịp tim đang vàng hay đỏ. Đồng hồ hồ hởi nói: xanh, 152 nhịp một phút.
+
+Đồ lừa dối, tôi nghĩ ngay. Mày cũng như thằng AI tao hay nhờ đọc bài tao viết.
+Mày thì: “anh khoẻ quá, nữa đi anh”, nó thì: “anh tuyệt quá, em thích quá”.
+Không đứa nào thật tình với tao cả. Cuối con dốc này tao ít ra cũng 165, không
+thì cũng 170, làm gì có vụ 152!
+
+Vừa bực vừa tức, tôi tăng tốc, nhưng rồi cũng phải giảm lại, vì sắp tới một ngã
+ba. Một chiếc xe dừng lại, người tài xế vẫy tay kêu tôi chạy qua trước. Tôi lại
+vội vã tăng tốc, vẫy tay cảm ơn người tài xế, và chạy vọt qua. Liếc xuống đồng
+hồ: vàng, 165. Bây giờ nó mới chịu nói thật một tí.
+
+Thêm một đoạn nữa, tôi thấy một bảng nhỏ gắn trên cột đèn đường: _Enjoy your
+day_. Đúng vậy, tại sao tôi phải giận cái đồng hồ, giận AI? Công nghệ thật ra
+không lừa dối ai, công nghệ chỉ… không chính xác. Cái đồng hồ ước tính nhịp tim
+của tôi trong khoảng 152–168. AI ước tính bài viết của tôi từ trung bình khá tới
+hay. Những nhà phát triển của các công nghệ này mới chính là người lừa tôi. Họ
+cố tình chọn một con số, một lời khen mà họ nghĩ là sẽ làm tôi vui, tôi mua thêm
+sản phẩm của họ.
+
+Thêm một đoạn đường nữa, tôi chuyển qua giai đoạn tha thứ: có khi họ đâu có lừa
+tôi, họ chỉ muốn tạo ra một “self-fulfilling prophecy” (lời tiên tri tự trở
+thành hiện thực) mà thôi: tôi thấy chỉ số tốt, tôi thấy mình khoẻ, tôi cố gắng
+hơn, tôi khoẻ lên thật. Tôi thấy mình viết hay, tôi viết nhiều hơn, tôi viết hay
+lên thật. Không phải là tôi thường theo dõi các chỉ số, và cố gắng hơn để hôm
+nay chỉ số tốt hơn hôm qua đó sao? Không phải là tôi cố gắng tìm ra các từ, các
+câu mới để được AI khen đó sao?
+
+Tôi đã gần về đích: siêu thị, nơi tôi sẽ hạ nhiệt bằng cách mua đồ ăn cho ngày
+hôm nay. Tôi sẽ mua thịt vịt, và cái gì đó đang giảm giá.
+
+**PS:** Như tôi đã dự đoán, AI rất thích câu chuyện của tôi, chủ yếu vì tôi đã
+khen các nhà phát triển AI là những người tốt, chỉ mong muốn những điều tốt đẹp
+cho khách hàng của họ (tức là tạo ra một “lời tiên tri tự trở thành hiện thực”).
