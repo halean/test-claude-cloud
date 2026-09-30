@@ -1,8 +1,10 @@
 ---
-import '@fontsource-variable/inter';
-import '@fontsource-variable/newsreader/opsz.css';
-import '@fontsource-variable/newsreader/opsz-italic.css';
-import '@fontsource-variable/jetbrains-mono';
+import '@fontsource/anton';
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/ibm-plex-mono/600.css';
+import '@fontsource/ibm-plex-serif/400.css';
+import '@fontsource/ibm-plex-serif/400-italic.css';
+import '@fontsource/ibm-plex-serif/600.css';
 import '../styles/global.css';
 import { SITE_TITLE } from '../consts';
 import { url } from '../utils';
@@ -40,7 +42,7 @@ const fullTitle = title === SITE_TITLE ? title : `${title} · ${SITE_TITLE}`;
   (() => {
     let theme;
     try { theme = localStorage.getItem('theme'); } catch {}
-    if (!theme) theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    if (!theme) theme = 'dark';
     document.documentElement.dataset.theme = theme;
   })();
 </script>

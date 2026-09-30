@@ -3,16 +3,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { url } from '../utils';
 ---
 
-<BaseLayout title="Not found" description="This page does not exist.">
+<BaseLayout title="Record not found" description="This page has been removed from the record.">
   <div class="center">
-    <p class="code">404</p>
-    <h1>Page not found</h1>
-    <p class="muted">The page you're looking for moved or never existed.</p>
-    <a href={url()}>← Back home</a>
+    <p class="label code">Error 404 // Record expunged</p>
+    <h1>This page has been disappeared.</h1>
+    <p class="muted">There is no record of what you're looking for. There never was.</p>
+    <a href={url()}>&lt; Return to approved content</a>
   </div>
 </BaseLayout>
 
 <style>
-  .center { text-align: center; padding: 4rem 0; }
-  .code { font-family: var(--font-mono); color: var(--accent); font-size: 1.1rem; margin: 0; }
+  .center { padding: 3rem 0; }
+  .code { color: var(--accent); }
 </style>

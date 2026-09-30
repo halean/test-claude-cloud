@@ -20,14 +20,13 @@ export async function getStaticPaths() {
 const { name, posts } = Astro.props as { name: string; posts: Post[] };
 ---
 
-<BaseLayout title={`#${name}`} description={`Posts tagged ${name}.`}>
-  <a class="back" href={url('tags')}>← All tags</a>
-  <h1>#{name}</h1>
-  <p class="muted">{posts.length} {posts.length === 1 ? 'post' : 'posts'}</p>
+<BaseLayout title={name} description={`Records classified under ${name}.`}>
+  <a class="back label" href={url('tags')}>&lt; All classifications</a>
+  <h1>{name}</h1>
+  <p class="muted">{posts.length} {posts.length === 1 ? 'record' : 'records'} under this classification.</p>
   <PostList posts={posts} />
 </BaseLayout>
 
 <style>
-  .back { display: inline-block; margin-bottom: 1.5rem; font-size: 0.9rem; color: var(--muted); text-decoration: none; }
-  .back:hover { color: var(--accent); }
+  .back { display: inline-block; margin-bottom: 2rem; text-decoration: none; }
 </style>

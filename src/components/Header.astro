@@ -1,19 +1,23 @@
 ---
-import { SITE_TITLE } from '../consts';
+import { SITE_TITLE, TICKER } from '../consts';
 import { url } from '../utils';
 import ThemeToggle from './ThemeToggle.astro';
 
 const links = [
-  { href: url('blog'), label: 'Writing' },
-  { href: url('tags'), label: 'Tags' },
-  { href: url('about'), label: 'About' },
+  { href: url('blog'), label: 'Archive' },
+  { href: url('tags'), label: 'Index' },
+  { href: url('about'), label: 'Dossier' },
 ];
 const path = Astro.url.pathname.replace(/\/$/, '');
+const ticker = TICKER.map((t) => t.toUpperCase()).join('  ///  ');
 ---
 
 <header>
+  <div class="ticker" aria-hidden="true">
+    <div class="track"><span>{ticker}  ///  </span><span>{ticker}  ///  </span></div>
+  </div>
   <nav class="container">
-    <a class="brand" href={url()}>{SITE_TITLE}</a>
+    <a class="brand" href={url()}><span class="dot" aria-hidden="true"></span>{SITE_TITLE}</a>
     <div class="links">
       {links.map(({ href, label }) => (
         <a href={href} aria-current={path.startsWith(href.replace(/\/$/, '')) ? 'page' : undefined}>{label}</a>
@@ -26,14 +30,40 @@ const path = Astro.url.pathname.replace(/\/$/, '');
 <style>
   header {
     position: sticky; top: 0; z-index: 10;
-    background: color-mix(in srgb, var(--bg) 80%, transparent);
-    backdrop-filter: saturate(180%) blur(12px);
-    border-bottom: 1px solid var(--border);
+    background: var(--bg); border-bottom: 2px solid var(--border);
   }
-  nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; height: 64px; }
-  .brand { font-weight: 700; color: var(--text); text-decoration: none; letter-spacing: -0.01em; }
-  .links { display: flex; align-items: center; gap: 1.25rem; }
-  .links a { color: var(--muted); text-decoration: none; font-size: 0.95rem; font-weight: 500; }
-  .links a:hover, .links a[aria-current='page'] { color: var(--text); }
-  @media (max-width: 420px) { .links { gap: 0.85rem; } .links a { font-size: 0.9rem; } }
+  .ticker {
+    overflow: hidden; white-space: pre; background: var(--accent); color: var(--accent-ink);
+    font-size: 0.7rem; font-weight: 600; letter-spacing: 0.16em; line-height: 1.9;
+  }
+  .track { display: inline-flex; animation: scroll 60s linear infinite; }
+  @keyframes scroll { to { transform: translateX(-50%); } }
+  nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; height: 60px; }
+  .brand {
+    display: flex; align-items: center; gap: 0.6rem;
+    font-family: var(--font-display); font-size: 1.35rem; text-transform: uppercase; letter-spacing: 0.03em;
+    color: var(--text); text-decoration: none; white-space: nowrap;
+  }
+  .brand:hover { background: none; color: var(--accent); }
+  .dot {
+    width: 0.55rem; height: 0.55rem; border-radius: 50%; background: var(--accent);
+    box-shadow: 0 0 8px var(--accent); animation: blink 1.6s steps(2, start) infinite;
+  }
+  @keyframes blink { to { opacity: 0.15; } }
+  .links { display: flex; align-items: center; gap: 1rem; }
+  .links a {
+    color: var(--muted); text-decoration: none; font-size: 0.78rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.12em;
+  }
+  .links a::before { content: '['; opacity: 0.5; }
+  .links a::after { content: ']'; opacity: 0.5; }
+  .links a:hover, .links a[aria-current='page'] { color: var(--text); background: none; }
+  .links a[aria-current='page']::before, .links a[aria-current='page']::after { color: var(--accent); opacity: 1; }
+  @media (max-width: 460px) {
+    nav { gap: 0.5rem; }
+    .links { gap: 0.6rem; }
+    .links a { font-size: 0.66rem; letter-spacing: 0.04em; }
+    .links a::before, .links a::after { content: none; }
+    .brand { font-size: 1.1rem; gap: 0.4rem; }
+  }
 </style>
