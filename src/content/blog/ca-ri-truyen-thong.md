@@ -4,7 +4,7 @@ description: Mớ ngò gần héo, quả ớt ngọt mấy tuần, hũ yaourt h�
 pubDate: 2026-09-30
 tags: [food]
 lang: vi
-draft: true
+draft: false
 ---
 
 Hôm qua nấu nồi cà ri truyền thống: lục trong tủ lạnh thấy mớ rau ngò gần héo,
