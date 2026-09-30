@@ -34,6 +34,13 @@ const stamp = (d: Date) => d.toISOString().slice(0, 10).replaceAll('-', '.');
   </article>
 </BaseLayout>
 
+<script>
+  // Touch screens have no hover: tap a photo to bring its colour back.
+  document.querySelectorAll<HTMLImageElement>('.prose img').forEach((img) => {
+    img.addEventListener('click', () => img.classList.toggle('recalled'));
+  });
+</script>
+
 <style>
   article > header { margin-bottom: 2.5rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); }
   .back { display: inline-block; margin-bottom: 2rem; text-decoration: none; }
