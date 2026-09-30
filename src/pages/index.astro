@@ -1,26 +1,24 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostList from '../components/PostList.astro';
-import { FILED_BY, HEADLINE, SITE_DESCRIPTION, SITE_DESCRIPTION_EN, SITE_TITLE } from '../consts';
+import { FILED_BY, SITE_DESCRIPTION, SITE_DESCRIPTION_EN, SITE_TITLE } from '../consts';
 import { getPosts, url } from '../utils';
 
-const allPosts = await getPosts();
-const posts = allPosts.slice(0, 5);
+const posts = (await getPosts()).slice(0, 5);
 ---
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
   <section class="hero">
-    <p class="label">Transmission {String(allPosts.length).padStart(4, '0')} <span class="sep">//</span> Clearance: public</p>
-    <h1 lang="vi">{HEADLINE}</h1>
+    <h1>{SITE_TITLE}</h1>
     <p class="intro" lang="vi">{SITE_DESCRIPTION}</p>
     <p class="intro-en">{SITE_DESCRIPTION_EN}</p>
-    <p class="filed">Filed by <span class="redact" tabindex="0" lang="vi">{FILED_BY}</span>. <a href={url('about')}>Open dossier &gt;</a></p>
+    <p class="filed label">Kept by <span class="faded" tabindex="0" lang="vi">{FILED_BY}</span> · <a href={url('about')}>About</a></p>
   </section>
 
   <section>
     <div class="section-head">
-      <h2 class="label">Latest records</h2>
-      <a class="label" href={url('blog')}>Full archive &gt;</a>
+      <h2 class="label">Recently filed</h2>
+      <a class="label" href={url('blog')}>The whole archive →</a>
     </div>
     <PostList posts={posts} />
   </section>
@@ -28,12 +26,12 @@ const posts = allPosts.slice(0, 5);
 
 <style>
   .hero { margin-bottom: 4.5rem; }
-  .sep { color: var(--accent); }
-  .intro { font-family: var(--font-serif); font-size: 1.2rem; max-width: 34rem; margin: 0 0 1rem; }
-  .intro-en { font-size: 0.85rem; color: var(--muted); max-width: 34rem; margin: 0 0 1rem; }
-  .filed { font-size: 0.85rem; color: var(--muted); }
+  .hero h1 { max-width: 38rem; }
+  .intro { font-size: 1.15rem; max-width: 34rem; margin: 0 0 0.75rem; }
+  .intro-en { font-size: 0.95rem; font-style: italic; color: var(--muted); max-width: 34rem; margin: 0 0 1.25rem; }
+  .filed { text-transform: none; letter-spacing: 0.04em; font-size: 0.8rem; }
   .section-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 0.75rem; }
   .section-head h2 { margin: 0; }
   .section-head a { text-decoration: none; }
-  .section-head a:hover { color: var(--accent-ink); }
+  .section-head a:hover { color: var(--strong); }
 </style>

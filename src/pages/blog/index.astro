@@ -7,13 +7,13 @@ const posts = await getPosts();
 const byYear = Map.groupBy(posts, (post) => post.data.pubDate.getFullYear());
 ---
 
-<BaseLayout title="Archive" description="Every record on file, newest first.">
+<BaseLayout title="Archive" description="Everything on file, newest first.">
   <p class="label">Archive</p>
-  <h1>All records</h1>
-  <p class="muted">{posts.length} {posts.length === 1 ? 'record' : 'records'} on file. Newest first.</p>
+  <h1>Everything on file</h1>
+  <p class="muted">{posts.length} {posts.length === 1 ? 'entry' : 'entries'}, newest first. The older ones are fading.</p>
   {[...byYear].map(([year, yearPosts]) => (
     <section>
-      <h2 class="label">Cycle {year}</h2>
+      <h2 class="label">{year}</h2>
       <PostList posts={yearPosts} />
     </section>
   ))}

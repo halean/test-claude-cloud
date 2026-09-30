@@ -1,10 +1,10 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: Dossier
+title: About
 description: What the file says about the author.
 ---
 
-**Subject:** <span class="redact" tabindex="0">một người chạy bộ</span><br>
+**Subject:** <span class="faded" tabindex="0">một người chạy bộ</span><br>
 **Occupation:** <span lang="vi">Ai có việc gì kêu thì làm. Hôm nay chưa ai kêu.</span><br>
 **Location:** Between the UK and Vietnam<br>
 **Known condition:** <span lang="vi">Suy nghĩ quá nhiều. Thành tật rồi.</span>

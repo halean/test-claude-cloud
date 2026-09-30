@@ -3,16 +3,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { url } from '../utils';
 ---
 
-<BaseLayout title="Record not found" description="This page has been removed from the record.">
+<BaseLayout title="Forgotten" description="Nobody remembers what was here.">
   <div class="center">
-    <p class="label code">Error 404 // Đứng lại! Đứng lại! Đứng lại!</p>
-    <h1>This page has left the premises.</h1>
-    <p class="muted">Security followed it to the edge of the car park, then stopped. Nobody else is coming.</p>
-    <a href={url()}>&lt; Return to approved content</a>
+    <p class="label">404 · Forgotten</p>
+    <h1>Something used to be here.</h1>
+    <p class="muted">Nobody remembers what. Nobody has asked in a long time.</p>
+    <a href={url()}>← Back to what's left</a>
   </div>
 </BaseLayout>
 
 <style>
   .center { padding: 3rem 0; }
-  .code { color: var(--accent); }
 </style>

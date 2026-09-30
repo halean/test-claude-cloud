@@ -1,12 +1,15 @@
 ---
 import { SITE_TITLE, SOCIALS } from '../consts';
 import { url } from '../utils';
+
+const updated = new Date().toISOString().slice(0, 10).replaceAll('-', '.');
 ---
 
 <footer class="container">
   <div>
-    <span>© {new Date().getFullYear()} <span lang="vi">{SITE_TITLE}</span></span>
+    <span>© {new Date().getFullYear()} · {SITE_TITLE}</span>
     <span class="notice">You have been instructed on the procedure. Thoroughly.</span>
+    <span class="notice">Last updated {updated}. Nothing has changed since.</span>
   </div>
   <span class="socials">
     {SOCIALS.map(({ label, href }) => (
@@ -19,12 +22,12 @@ import { url } from '../utils';
   footer {
     display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem;
     margin-top: 6rem; padding-top: 1.5rem; padding-bottom: 3rem;
-    border-top: 2px solid var(--border); color: var(--muted);
-    font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em;
+    border-top: 1px solid var(--border); color: var(--muted);
+    font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.06em;
   }
-  footer > div { display: grid; gap: 0.25rem; }
-  .notice { color: var(--accent); }
-  .socials { display: flex; gap: 1rem; }
+  footer > div { display: grid; gap: 0.3rem; max-width: 32rem; }
+  .notice { color: var(--faint); }
+  .socials { display: flex; gap: 1rem; text-transform: uppercase; }
   a { color: var(--muted); text-decoration: none; }
-  a:hover { color: var(--accent-ink); }
+  a:hover { color: var(--strong); }
 </style>

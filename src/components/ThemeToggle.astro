@@ -1,14 +1,14 @@
-<button id="theme-toggle" type="button" aria-label="Toggle day and night cycle" title="Toggle day / night cycle">
-  <span class="day">DAY</span><span class="night">NIGHT</span>
+<button id="theme-toggle" type="button" aria-label="Toggle light and dark" title="Lights on / off">
+  <span class="day">Lights off</span><span class="night">Lights on</span>
 </button>
 
 <style>
   button {
-    font: 600 0.68rem/1 var(--font-mono); letter-spacing: 0.12em;
-    padding: 0.45rem 0.55rem; border: 1px solid var(--border);
-    background: transparent; color: var(--text); cursor: pointer;
+    font: 0.66rem/1 var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 0.4rem 0.55rem; border: 1px solid var(--border);
+    background: transparent; color: var(--muted); cursor: pointer; white-space: nowrap;
   }
-  button:hover { background: var(--text); color: var(--bg); }
+  button:hover { color: var(--strong); border-color: var(--muted); }
   .night { display: none; }
   :global(:root[data-theme='dark']) .day { display: none; }
   :global(:root[data-theme='dark']) .night { display: inline; }

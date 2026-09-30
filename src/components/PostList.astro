@@ -5,17 +5,23 @@ import { readingTime, url } from '../utils';
 interface Props { posts: Post[] }
 const { posts } = Astro.props;
 const stamp = (d: Date) => d.toISOString().slice(0, 10).replaceAll('-', '.');
+// Older posts fade: fully legible when new, down to 40% after two years.
+const now = Date.now();
+const fade = (d: Date) => {
+  const years = Math.max(0, (now - d.valueOf()) / (365 * 864e5));
+  return Math.max(0.4, 1 - years * 0.3).toFixed(2);
+};
 ---
 
-{posts.length === 0 && <p class="empty">No records approved for release. Check back after the next review cycle.</p>}
+{posts.length === 0 && <p class="empty">Nothing on file. Nothing has been added in some time.</p>}
 <ol>
   {posts.map((post) => (
-    <li>
-      <a href={url(`blog/${post.id}/`)}>
+    <li style={`--fade: ${fade(post.data.pubDate)}`}>
+      <a href={url(`blog/${post.id}/`)} lang={post.data.lang}>
         <div class="meta">
           <time datetime={post.data.pubDate.toISOString()}>{stamp(post.data.pubDate)}</time>
           <span>{readingTime(post.body)}</span>
-          {post.data.draft && <span class="draft">Unapproved</span>}
+          {post.data.draft && <span class="draft">Draft</span>}
         </div>
         <h3>{post.data.title}</h3>
         <p>{post.data.description}</p>
@@ -26,24 +32,20 @@ const stamp = (d: Date) => d.toISOString().slice(0, 10).replaceAll('-', '.');
 
 <style>
   ol { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--border); }
-  li { border-bottom: 1px solid var(--rule); }
-  a {
-    display: block; padding: 1.25rem 0 1.25rem 1rem; color: inherit; text-decoration: none;
-    border-left: 4px solid transparent; transition: border-color 0.15s ease, background-color 0.15s ease;
-  }
-  a:hover { background: var(--surface); color: inherit; border-left-color: var(--accent); }
+  ol:empty { display: none; }
+  li { border-bottom: 1px dotted var(--border); opacity: var(--fade, 1); transition: opacity 0.8s ease; }
+  li:hover, li:focus-within { opacity: 1; }
+  a { display: block; padding: 1.25rem 0; color: inherit; text-decoration: none; }
   a:hover h3 { color: var(--accent); }
   .meta {
-    display: flex; gap: 1rem; font-size: 0.72rem; font-weight: 600;
+    display: flex; gap: 1rem; font-family: var(--font-mono); font-size: 0.68rem;
     text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted);
   }
-  time { color: var(--signal); }
   h3 {
-    margin: 0.35rem 0 0.35rem; font-family: var(--font-display); font-weight: 400;
-    font-size: 1.6rem; line-height: 1.25; text-transform: uppercase; letter-spacing: 0.01em;
+    margin: 0.3rem 0 0.25rem; font-family: var(--font-display); font-weight: 500;
+    font-size: 1.5rem; line-height: 1.2; transition: color 0.3s ease;
   }
-  p { margin: 0; color: var(--muted); font-size: 0.9rem; }
-  .empty { padding: 1.5rem 0; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--border); }
-  ol:empty { display: none; }
-  .draft { color: var(--accent); border: 1px dashed var(--accent); padding: 0 0.35rem; }
+  p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+  .empty { padding: 1.5rem 0; color: var(--muted); font-style: italic; border-top: 1px solid var(--border); }
+  .draft { border: 1px dashed var(--muted); padding: 0 0.35rem; }
 </style>

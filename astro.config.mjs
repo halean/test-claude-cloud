@@ -12,7 +12,7 @@ export default defineConfig({
   integrations: [mdx(), sitemap()],
   markdown: {
     shikiConfig: {
-      themes: { light: 'min-light', dark: 'vitesse-black' },
+      themes: { light: 'min-light', dark: 'min-dark' },
     },
   },
 });

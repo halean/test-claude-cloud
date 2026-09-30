@@ -12,12 +12,12 @@ const stamp = (d: Date) => d.toISOString().slice(0, 10).replaceAll('-', '.');
 <BaseLayout title={title} description={description} type="article">
   <article lang={lang}>
     <header>
-      <a class="back" href={url('blog')}>&lt; Return to archive</a>
-      <div class="file">
-        <span>Case file</span>
+      <a class="back label" href={url('blog')} lang="en">← Back to the archive</a>
+      <div class="file label" lang="en">
         <span>Filed <time datetime={pubDate.toISOString()}>{stamp(pubDate)}</time></span>
         {updatedDate && <span>Amended {stamp(updatedDate)}</span>}
         <span>{readingTime(post.body)}</span>
+        <span>Last read: unknown</span>
       </div>
       <h1>{title}</h1>
       <p class="lede">{description}</p>
@@ -30,23 +30,17 @@ const stamp = (d: Date) => d.toISOString().slice(0, 10).replaceAll('-', '.');
     <div class="prose">
       <slot />
     </div>
-    <p class="end label">— End of transmission —</p>
+    <p class="end label" lang="en">Nothing further on file.</p>
   </article>
 </BaseLayout>
 
 <style>
-  article > header { margin-bottom: 2.5rem; padding-bottom: 2rem; border-bottom: 2px solid var(--border); }
-  .back {
-    display: inline-block; margin-bottom: 2rem; font-size: 0.75rem; font-weight: 600;
-    text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); text-decoration: none;
-  }
-  .file {
-    display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem; margin-bottom: 1rem;
-    font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted);
-  }
-  .file span:first-child { color: var(--accent-ink); background: var(--accent); padding: 0 0.4rem; }
-  .file time { color: var(--signal); }
-  .lede { font-family: var(--font-serif); font-style: italic; font-size: 1.15rem; color: var(--muted); margin: 0 0 1.25rem; }
+  article > header { margin-bottom: 2.5rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); }
+  .back { display: inline-block; margin-bottom: 2rem; text-decoration: none; }
+  .back:hover { color: var(--strong); }
+  .file { display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem; margin-bottom: 0.9rem; }
+  .file span:last-child { color: var(--faint); }
+  .lede { font-style: italic; font-size: 1.1rem; color: var(--muted); margin: 0 0 1.25rem; }
   .tags { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .end { text-align: center; margin-top: 4rem; }
+  .end { text-align: center; margin-top: 4rem; color: var(--faint); }
 </style>

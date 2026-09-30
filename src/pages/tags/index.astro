@@ -9,19 +9,19 @@ for (const post of await getPosts()) {
 const tags = [...counts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 ---
 
-<BaseLayout title="Index" description="Records sorted by classification.">
+<BaseLayout title="Subjects" description="Entries by subject.">
   <p class="label">Index</p>
-  <h1>Classifications</h1>
-  <p class="muted">Records sorted by subject.</p>
+  <h1>Subjects</h1>
+  <p class="muted">Entries sorted by subject.</p>
   <div class="cloud">
     {tags.map(([tag, count]) => (
-      <a class="tag" href={url(`tags/${slugifyTag(tag)}/`)}>{tag} <span>[{count}]</span></a>
+      <a class="tag" href={url(`tags/${slugifyTag(tag)}/`)}>{tag} <span>({count})</span></a>
     ))}
   </div>
 </BaseLayout>
 
 <style>
   .cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 2rem; }
-  .tag { font-size: 0.85rem; padding: 0.4rem 0.75rem; }
+  .tag { font-size: 0.85rem; padding: 0.35rem 0.75rem; }
   span { opacity: 0.6; }
 </style>
