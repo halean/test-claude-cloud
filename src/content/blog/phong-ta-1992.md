@@ -1,11 +1,14 @@
 ---
 title: Phòng tạ, 1992
-description: "Một cơn hen sau giờ thể dục, một phòng tạ không máy lạnh, và bài học đầu tiên: tháo tạ phải tháo hai bên cho đều."
-pubDate: 2026-09-30
+description: "Xem clip một người tháo tạ một bên, nhớ lại phòng tạ năm 1992 và bài học đầu tiên: tháo tạ phải tháo hai bên cho đều."
+pubDate: 2026-07-25
 tags: [vietnam, stories]
 lang: vi
 draft: true
 ---
+
+_Nhân xem [clip một người tháo tạ một bên](https://www.tiktok.com/@gossip.tea0/video/7666419427721661709)
+đang lan truyền trên mạng._
 
 Năm lớp 10, giờ thể dục chạy 10 vòng lên xuống cái đường dọc bãi giữ xe trường
 Lê Hồng Phong xong, về nhà mình đổ cơn hen. Thế là tức quá, nảy ra ý định tập tạ,
@@ -18,8 +21,7 @@ lý do tập như thế nào, kết quả ra sao.
 
 Phòng tập không có máy lạnh, chỉ có quạt, nhưng vẫn thấy mát mẻ.
 
-Bài học đầu tiên là: tháo tạ phải tháo hai bên cho đều. Không thì
-[như thế này](https://www.tiktok.com/@gossip.tea0/video/7666419427721661709).
+Bài học đầu tiên là: tháo tạ phải tháo hai bên cho đều.
 
 Còn nhớ phân loại: chơi thể hình hay chơi thẩm mỹ. Chơi thẩm mỹ chắc là tập cho
 cân đối, đẹp, còn chơi thể hình là tập cho cơ bắp lớn.
