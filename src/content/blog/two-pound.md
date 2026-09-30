@@ -3,7 +3,7 @@ title: Two pound
 description: A hot run, a bridge, a spilled beer, and a stand-off that could have gone either way.
 pubDate: 2026-09-30
 tags: [running, stories]
-draft: true
+draft: false
 ---
 
 The run was hard. It was about 30°C, and the path sloped up to the bridge. A man
