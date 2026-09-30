@@ -4,7 +4,7 @@ description: "Vớt lớp váng mỡ trong nồi thịt kho, nghĩ về Tết nh
 pubDate: 2025-01-19
 tags: [family, food]
 lang: vi
-draft: true
+draft: false
 ---
 
 Vớt lớp váng mỡ trong nồi thịt mới kho xong tối qua, mình nghĩ về Tết những năm
