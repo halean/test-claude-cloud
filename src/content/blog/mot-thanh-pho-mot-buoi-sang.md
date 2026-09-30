@@ -1,7 +1,7 @@
 ---
 title: Một thành phố, một buổi sáng
 description: Chuyến bay về Việt Nam, một lô DVD ở hải quan, một quán cà phê lề đường, và một đợt về hưu non.
-pubDate: 2026-09-30
+pubDate: 2026-07-22
 tags: [vietnam, stories]
 lang: vi
 draft: false

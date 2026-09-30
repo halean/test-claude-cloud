@@ -1,7 +1,7 @@
 ---
 title: Phương tiện công cộng
 description: "Không biết lái xe hơi, nhà cũng không có xe hơi. Phần 1, Kuala Lumpur: một cái vé kết hợp, hai lần tá hỏa, và một câu lệnh SQL."
-pubDate: 2026-09-30
+pubDate: 2026-07-21
 tags: [travel, stories]
 lang: vi
 draft: false
