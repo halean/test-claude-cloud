@@ -40,8 +40,8 @@ _Giá máy bay quy đổi theo thời giá 2024, đơn vị triệu đô._
 
 **Bác Nguyễn Văn Bảy** lái MiG-17, bắn máy bay đối phương bằng pháo.
 
-- Ít nhất 2 F-8 (30), 1 F-4B (25), 1 A-4C (38) và 1 F-105D (22)
-- **Tổng cộng: ít nhất 115 triệu đô**
+- Ít nhất 2 F-8 (30), 1 F-4B (25), 1 A-4C (7) và 1 F-105D (22)
+- **Tổng cộng: ít nhất 84 triệu đô**
 
 Chuyện kể có lần bác bắn chiếc F-4 đứt ra làm đôi bằng pháo 37mm.
 
@@ -56,8 +56,8 @@ Chuyện kể có lần bác bắn chiếc F-4 đứt ra làm đôi bằng pháo
 
 **Bác Nguyễn Hồng Nhị** lái MiG-21.
 
-- 3 F-105 (75), 1 F-8 (15), 3 F-4 (75), 1 RF-101 (13)
-- **Tổng cộng: 178 triệu đô**
+- 3 F-105 (66), 1 F-8 (15), 3 F-4 (75), 1 RF-101 (13)
+- **Tổng cộng: 169 triệu đô**
 
 **Chú Nguyễn Tiến Sâm**
 
