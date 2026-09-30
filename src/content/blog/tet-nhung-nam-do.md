@@ -39,5 +39,9 @@ bạn nội trợ trố mắt: món này hồi đó bà ngoại mấy bả mới
 Càng già càng làm biếng: năm ngoái thì còn chịu khó nấu xôi ngũ sắc với chè kho.
 Năm nay chắc dẹp luôn quá.
 
+![Mâm Tết năm ngoái: xôi ngũ sắc với ngôi sao vàng ở giữa, ba chén chè kho úp trên đĩa, một đĩa đỏ có ngôi sao vàng, một đĩa món hầm, ba ly rượu nhỏ và một ngọn nến.](../../assets/blog/tet-mam-co.jpg)
+
 Nồi thịt kho dưới bếp đã thơm, thôi mình xuống nhà ăn sáng đây. Lớp váng mỡ vớt
 ra sẽ cho chim chuột ăn. Tụi nó thích lắm.
+
+![Nồi thịt kho trứng, lớp mỡ đông trắng phủ trên mặt.](../../assets/blog/noi-thit-kho.jpg)
