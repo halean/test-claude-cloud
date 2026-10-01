@@ -4,7 +4,7 @@ description: "Một người bạn gửi tấm ảnh và thách viết một câ
 pubDate: 2026-10-01
 tags: [stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 _Một người bạn gửi tấm ảnh này và thách: viết một câu chuyện._
