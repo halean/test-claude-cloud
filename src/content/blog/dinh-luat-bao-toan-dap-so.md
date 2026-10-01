@@ -4,7 +4,7 @@ description: "Hồi cấp ba, giải đúng đáp số thì lời giải là đ�
 pubDate: 2025-03-09
 tags: [ai, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Hồi cấp ba (cách đây 33 năm), chúng tôi giải bài Vật lý, có một định luật rất hay
