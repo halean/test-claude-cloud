@@ -1,7 +1,7 @@
 ---
 title: Best of N
 description: "Kiếm ăn thì tham lam, làm tổ thì kén chọn: chim ngậm cọng que tốt nhất hiện tại, đi tìm cọng tốt hơn, trong một khoảng thời gian cố định."
-pubDate: 2026-02-12
+pubDate: 2025-02-12
 tags: [nature, stories]
 lang: vi
 draft: true
