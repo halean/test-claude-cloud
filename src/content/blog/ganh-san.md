@@ -4,7 +4,7 @@ description: "Trích hồi ký của ba tôi: một chuyến đi săn đêm trê
 pubDate: 2026-10-01
 tags: [family, history]
 lang: vi
-draft: true
+draft: false
 ---
 
 _Trích hồi ký của ba tôi. Con mang trong [Tết những năm đó](../tet-nhung-nam-do/) là từ những chuyến săn như thế này._

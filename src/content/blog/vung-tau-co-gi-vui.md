@@ -4,7 +4,7 @@ description: "1984, 1994, 1997, 2017, 2019: một chiếc Mercedes của sân ba
 pubDate: 2025-04-20
 tags: [vietnam, travel, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Bạn tôi hỏi: Vũng Tàu có gì vui?
