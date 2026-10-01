@@ -1,6 +1,6 @@
 ---
 title: Phương tiện công cộng
-description: "Không biết lái xe hơi, nhà cũng không có xe hơi. Phần 1, Kuala Lumpur: một cái vé kết hợp, hai lần tá hỏa, và một câu lệnh SQL."
+description: "Không biết lái xe hơi, nhà cũng không có xe hơi. Phần 1, Kuala Lumpur: một cái vé kết hợp và một câu lệnh SQL. Phần 2, Sài Gòn: xe buýt 6k, vé CCCD, và tàu điện ngầm mới toanh."
 pubDate: 2026-07-21
 tags: [travel, stories]
 lang: vi
@@ -63,3 +63,43 @@ Thế là hết một hành trình phương tiện công cộng Kuala Lumpur. T�
 ra: những người bán vé nghĩ là vé đi hai ngày không có lợi, và quy trình cũng
 phức tạp, cho nên không muốn bán cho tôi. Tôi tài lanh cho nên họ đành phải bán.
 Cuối cùng tôi cũng mất cái vé đó.
+
+## 2. Sài Gòn
+
+Nhà tôi gần một số tuyến xe buýt. Tuy tôi đi xe gắn máy vẫn thành thạo, nhưng càng
+già càng lười dắt xe lên xuống ra vào. Thế là đi thì băng ngang qua đường, bắt xe
+04, 109 đi chợ Bến Thành, xe 104 đi ngã tư Hàng Xanh, và các xe khác. Xe buýt giờ
+máy lạnh, xe 109 còn là xe buýt điện nữa. Xe buýt giá quá rẻ, 6k đi lên tới trung
+tâm.
+
+Có một tài, một người bán/soát vé. Giờ kết nối mạng, ghi hình ghi âm, người soát vé
+cũng rất cực: để sót một người bị phạt 900k. Cô soát vé nói: “Với anh chị chỉ có
+6k, nhưng với tụi em, là 900.”
+
+Cô hỏi tôi: “Anh đi vé thường hay đi CCCD?” Tôi bật cười, nói vé thường, rút 6k ra
+trả, và nói vui: “Khổ quá, tôi mới 50, mà mặt chắc già lắm.” Cổ vội vàng chống chế:
+“Không phải đâu, chẳng qua là có nhiều người 75 mà nhìn còn rất trẻ, không nhắc
+thì họ không biết…”
+
+Tôi chỉ cười cười, trong khi cô gặp hai trường hợp đi CCCD (nghĩa là trên 60 tuổi,
+đi miễn phí, chỉ cần trình căn cước). Cô giơ 2 thẻ CCCD trước camera để camera ghi
+nhận, rồi bấm nút trên máy. Chiếc máy reo lên: _vé miễn phí_.
+
+Đi một tí là tới trạm trung chuyển Hàm Nghi, tôi xuống xe, nhìn quanh, rồi quyết
+định đi tàu điện ngầm. Tàu điện ngầm mới khai trương, mới toanh, ga rộng rãi nhưng
+không bật máy lạnh mát như ga ở Kuala Lumpur. Tàu mới, thơm, và êm như tàu của các
+nước láng giềng. Đi một chút là ra ngoài trung tâm, tới ga Rạch Chiếc chỉ 15 phút.
+
+Tôi nghĩ không biết sao ít người đi, vì đi tàu ngắm cảnh thành phố cũng hay hay:
+tuyến trên cao đi qua Văn Thánh, qua cầu Sài Gòn, qua Thảo Điền, đi giữa các tòa
+nhà chọc trời An Phú, đi ngang khu chùa phái Khất Sĩ, đi nữa… Ga xe điện to, có
+bãi giữ xe Honda, nhưng lại không có ai gửi. Lúc về thì đông hơn: giờ cao điểm mọi
+người đi từ ngoại ô về trung tâm. Xuống lại ga Bến Thành, tôi lại bắt xe buýt về
+nhà, 6k.
+
+Người đi xe buýt cũng đa dạng: chị gánh hàng, anh ca sĩ mù đi với bộ loa cũ, chàng
+TikToker livestream toàn bộ chuyến đi, em đi sân bay cùng với cái vali, bị thu tiền
+gấp đôi. Máy in vé reo liên tục: vé thường, vé trợ giá, vé miễn phí…
+
+Tôi xuống trạm gần nhà, gặp anh xe ôm. Anh nói: “Lên tôi chở về, rồi cho nhiêu thì
+cho.” (Chắc chắn là 15–20k rồi.)
