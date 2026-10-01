@@ -1,13 +1,13 @@
 ---
 title: Gánh săn
-description: "Trích hồi ký: một chuyến đi săn đêm trên đường T15 ở Buôn Mê Thuột, đèn rọi, xe Jeep, và những tín hiệu không lời."
+description: "Trích hồi ký của ba tôi: một chuyến đi săn đêm trên đường T15 ở Buôn Mê Thuột, đèn rọi, xe Jeep, và những tín hiệu không lời."
 pubDate: 2026-10-01
 tags: [family, history]
 lang: vi
 draft: true
 ---
 
-_Trích hồi ký._
+_Trích hồi ký của ba tôi. Con mang trong [Tết những năm đó](../tet-nhung-nam-do/) là từ những chuyến săn như thế này._
 
 “Gánh săn”: 1 xạ thủ, 1 rọi đèn, 1 lái xe và 1–2 “điếu đóm” rời thị xã Buôn Mê
 Thuột đi về hướng Đắc Min rồi rẽ vào đường T15 (đường biên giới) qua các đồn biên
