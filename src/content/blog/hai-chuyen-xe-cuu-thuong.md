@@ -11,11 +11,11 @@ Năm đó (2018), ông già (90) xuất huyết bao tử, bà già đưa vào c�
 
 Bà già thuê cái xe cứu thương chạy vào 175. Lúc đó đường chưa có cao tốc, xe cứu thương được ưu tiên, chạy 3 tiếng đồng hồ là tới.
 
-Vào cấp cứu 175, gặp cậu bác sĩ, trước học trường Gò Vấp mà bả làm hiệu trưởng, cậu bác sĩ liếc sơ qua cái kết quả xét nghiệm rồi nói luôn: “Sẵn xe cứu thương, bác đưa bác trai về luôn, chứ tuổi của bác trai cao rồi, đừng chữa làm gì mệt cho bác trai.” (Bác sĩ thấy chỉ số ung thư gan AFP 3000 ng/ml, bình thường: <10 ng/ml).
+Vào cấp cứu 175, gặp cậu bác sĩ, trước học trường mà bả làm hiệu trưởng, cậu bác sĩ liếc sơ qua cái kết quả xét nghiệm rồi nói luôn: “Sẵn xe cứu thương, bác đưa bác trai về luôn, chứ tuổi của bác trai cao rồi, đừng chữa làm gì mệt người.” Bà già sốc, gọi điện khắp nơi, gọi giám đốc bệnh viện, gọi tùm lum, kêu sao không chữa cho chồng tôi. Cuối cùng là đẩy qua khoa A1.
 
-Bà già sốc, gọi điện khắp nơi, gọi giám đốc bệnh viện, gọi tùm lum, kêu sao không chữa cho chồng tôi. Cuối cùng là đẩy qua khoa A1. (Nhiều chuyện bệnh viện ly kỳ hấp dẫn nhưng không có liên quan tới vấn đề xe cứu thương...)
+(Nhiều chuyện bệnh viện ly kỳ hấp dẫn nhưng không có liên quan tới vấn đề xe cứu thương...)
 
-Bà già bả cứ lừng khừng muốn ở SG chạy chữa, nhưng rồi bà con họ hàng bác sĩ đều bàn về PT. Cuối cùng bả cũng chịu, thuê cái xe cứu thương chở ổng về.
+Bà già bả cứ lừng khừng muốn ở SG chạy chữa, nhưng rồi bà con họ hàng bác sĩ đều bàn về PT. Cuối cùng bả cũng chịu, thuê cái xe cứu thương chở ổng về. (Mấy hôm đó mình ngồi trong BV, y tá bác sĩ coi mình như đồng nghiệp, ông bác sĩ còn bảo: Anh đọc giúp cái MRI rồi giải thích cho gia đình kia giùm), ông anh thấy thế bảo: “Em quen y tá bác sĩ, hay em thuê cái xe cứu thương luôn đi”. Mệt quá, mình chỉ nhìn ổng với ánh mắt “Anh nghe anh nói anh thấy có hợp lý không, em ở Anh vừa về có mấy hôm”, may mà ổng cũng nhìn ra, rồi bảo vợ ổng thu xếp, chứ không thì mình cũng thuê được.
 
 Xe chạy ngược về từ SG->PT, lúc nào đông người thì lại bật còi lên chạy, qua trạm thu phí không cần giảm tốc độ, tông cả vào barrier đang giở lên, hết hai tiếng rưỡi.
 
