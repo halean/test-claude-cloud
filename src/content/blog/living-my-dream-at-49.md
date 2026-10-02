@@ -55,3 +55,15 @@ have more stories to tell. So writing will last me some more.
 Then I will need to think about another outlet: videography? Choreography? Sugar
 baby? (Just kidding. My friends, who did have sugar babies, advised me
 otherwise.)
+
+---
+
+## Bản tiếng Việt
+
+<div lang="vi">
+
+Ở tuổi 49, không có việc làm ổn định, trầm cảm và rối loạn lo âu, làm những công việc linh tinh thời vụ, tự nhiên tôi có một cảm giác tự do kỳ lạ. Lần đầu tiên, tôi thấy mình đang làm điều gì đó cho chính tôi. Tôi đã bỏ bê việc nấu nướng cho gia đình: Chúng tôi thường chỉ ăn pizza một lần một tuần, còn lại luôn là những bữa ăn tự nấu. Tuần đó, chúng tôi đã ăn pizza hai lần! Tôi đã sử dụng thời gian rảnh rỗi để khám phá bản thân. Tôi đã viết hết câu chuyện này đến câu chuyện khác. Đầu tiên, đó là những câu chuyện của riêng tôi, sau đó là của ba mẹ tôi, của vợ tôi, của gia đình tôi. Rồi những câu chuyện khác, về cuộc đời của người khác, về chính cuộc sống, cách tôi đang nhìn nhận, cách tôi muốn nhìn nhận mọi thứ. Những câu chuyện này đến với nhau, như thể chúng đã sẵn đâu đó, chỉ chực trào ra. Tôi cảm thấy vui, vui thực sự. Tôi cảm thấy muốn thức dậy vào buổi sáng. Tôi cảm thấy sợ khi kiểm tra email: nếu có công việc đến, ai sẽ viết những câu chuyện này? Tôi viết, nước mắt lăn dài trên má, con trai tôi nhẹ nhàng an ủi tôi bằng cái chạm tay của nó. Tôi giải thích với nó: đây là những giọt nước mắt của hạnh phúc, của những cảm xúc đang được giải phóng.
+
+Rồi tôi chạy, tôi chạy rất hăng. Tôi chạy với nhịp tim tối đa. Tôi chạy lên dốc trong một đoạn dài. Tôi chạy xuyên qua mưa, qua tuyết, qua băng giá. Đồng hồ thông minh của tôi cho rằng tôi là một vận động viên chạy bộ giỏi so với tuổi, nhưng tôi chả tin vào những lời có cánh này. Cảm giác trong tôi có thùng nước đang sôi, và hơi nước cần phải thoát ra, và hơi nước đang thoát ra. Hơi nước đã tích tụ trong một thời gian quá dài. Tôi đã tìm thấy hai đường ra, một về tinh thần, một về thể xác. Cảm giác thật liều lĩnh, manh động, nhưng cũng thật rạo rực. Cảm giác như tôi là một con người mới, một con người thực sự, một con người có năng lực, sống lành mạnh, đồng cảm với người khác và cuộc sống (xem thêm những câu chuyện khác của tôi). Tất nhiên, trầm cảm và lo âu vẫn còn đó, len lỏi vào những lúc tôi không để ý, nhưng ít ra, tôi cảm thấy mình có thể kiểm soát tốt hơn. Tôi không biết cảm giác này sẽ kéo dài bao lâu. Nó đã kéo dài một tháng rồi, tôi hy vọng nó sẽ kéo dài thêm. Tôi đã chạy rất hăng kể từ đại dịch (năm năm trước), và do đó chắc còn tiếp tục chạy được. Tôi đã bắt đầu viết dồn dập từ hơn một tháng, và vẫn cảm thấy rằng mình còn vài câu chuyện phải kể. Vì vậy, việc viết lách sẽ giúp tôi thêm một thời gian nữa. Sau đó, tôi sẽ phải tìm những đường khác, chẳng hạn như: giảng đường, võ đường, hay là một… “bé đường”?
+
+</div>
