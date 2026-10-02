@@ -31,7 +31,9 @@ and its garden.
 Lunch would be cooked in the outhouse using firewood. There would be more fish than I
 would like, but everybody else seemed to like fish. The afternoon was boring time, some
 more exploring the garden, perhaps walking down to the bridge/temple, mostly waiting for
-the sun to get less harsh to go to the beach. The beach back then was so shallow and
+the sun to get less harsh to go to the beach. How bored was I: we would feed an ant
+to a sandpit and watch the antlion larva coming up to grab the ant. It was very crude,
+but back then, it was entertainment. The beach back then was so shallow and
 smooth, that we would waddle out 100–200m. After the swim, time to be back for another
 meal. Night treat would include “lục tàu xá”, again, from a vendor chanting their treats
 while walking past our house.
@@ -41,7 +43,9 @@ then, Hội An was just a sleepy town with nothing interesting happening.
 
 Then Hội An became a booming tourist town. My mother jointly built a mini hotel, and my
 father was an incidental hotel manager. He loved and hated it in equal amount. He loved
-talking to tourists in French and English, and eventually reunited with somebody from
+talking to tourists in French and English. Back then, the backpackers were tough
+bargainers: how much for a night? That would be USD15, sir. But we don't need aircon,
+make it 12, and we have a deal. Stories like that stay with me. My father eventually reunited with somebody from
 France who was in the same primary school. Imagine that. At another time, he translated
 an urgent request from another French guy: a suit, in 3 hours. The village tailor said,
 impossible, 4 hours maybe. But I have to go to Huế by then. No problem, the tailor said,
@@ -59,8 +63,9 @@ cafés, Bánh Mì Phượng, and the like. The lantern festival is a very recent
 simple night food market, very crowded now. Of course my son loves the festive feeling
 of the town, the fact that it is compact, walkable, with lots of things to see. As for
 myself, I did not love Hội An when I was a child, because it was boring. I do not love
-Hội An now, because I know a lot of things are just for show. And one day, a street
-seller told me: move away please so that I can sell some trinkets to these foreigners.
+Hội An now, because I know a lot of things are just for show. And one day, in 2019, a
+street seller told me: “Anh tránh ra tí để em bán cho Tây”, move away please so that I
+can sell some trinkets to these foreigners.
 My fault: I spoke Vietnamese with a Hội An accent, so not the kind of customer she
 thought she could sell to.
 
