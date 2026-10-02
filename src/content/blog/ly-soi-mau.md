@@ -1,7 +1,7 @@
 ---
 title: Ly sỏi màu
 description: "Một người bạn gửi tấm ảnh và thách viết một câu chuyện: một nghệ nhân già, một ly sỏi màu, và những ô cửa đối diện."
-pubDate: 2026-10-01
+pubDate: 2025-01-15
 tags: [stories]
 lang: vi
 draft: false
