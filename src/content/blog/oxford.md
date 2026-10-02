@@ -21,7 +21,7 @@ say: for a thousand years, regardless of the chaos in the outside world, in here
 are in order, always have been, always will be. Such an understatement, together with
 new builds, big shopping malls, refined restaurants, and many others, almost recreated
 the feeling of awe from the first few times I visited Oxford, but not today. Today, even
-the house with the shark was not too impressive. Am I getting too old, too hard to
+[the house with the shark](https://en.wikipedia.org/wiki/Headington_Shark) was not too impressive. Am I getting too old, too hard to
 please, too wise to be seduced? But the ancient foot paths, the long frontage of an
 independent school, they did not care to seduce anybody.
 
