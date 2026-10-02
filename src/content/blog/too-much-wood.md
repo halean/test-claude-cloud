@@ -3,7 +3,7 @@ title: Too much wood
 description: "“Don't you think you have too much AI in your life right now?”"
 pubDate: 2025-05-12
 tags: [ai, family]
-draft: true
+draft: false
 ---
 
 His son asked: “Don't you think you have too much AI in your life right now?”
