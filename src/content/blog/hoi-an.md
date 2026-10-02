@@ -3,7 +3,7 @@ title: Do you love Hội An?
 description: "My son, 17, said: “I love Hội An, don't you.” The simple question triggered a long stream of thoughts."
 pubDate: 2026-05-01
 tags: [family, vietnam, food, travel]
-draft: true
+draft: false
 ---
 
 My son, 17, said: “I love Hội An, don't you.” during a Sunday lunch when we discussed

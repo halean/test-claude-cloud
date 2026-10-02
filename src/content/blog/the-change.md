@@ -3,7 +3,7 @@ title: The change
 description: "Today, for the first time in many months, I don't feel the tightness in the chest."
 pubDate: 2026-05-28
 tags: [running, life]
-draft: true
+draft: false
 ---
 
 I have suffered anxiety for quite some time. It started small: did I close the door,

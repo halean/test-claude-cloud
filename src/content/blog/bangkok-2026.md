@@ -3,7 +3,7 @@ title: Bangkok 2026
 description: "Twenty-four hours on the way to Sài Gòn: a ferry to IconSiam, a tuktuk to Yaowarat, and a city that is lively not because of the tourists, but because it is."
 pubDate: 2026-07-17
 tags: [travel, food, stories]
-draft: true
+draft: false
 ---
 
 Bangkok 2026. We stopped here for 24 hours on the way to Sài Gòn. It was partly for me

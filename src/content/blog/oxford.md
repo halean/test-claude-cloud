@@ -3,7 +3,7 @@ title: Oxford
 description: "Those doors just say: for a thousand years, regardless of the chaos in the outside world, in here, things are in order."
 pubDate: 2025-12-16
 tags: [travel, stories]
-draft: true
+draft: false
 ---
 
 It has been some time since I last visited Oxford, and I have forgotten how nice it is.
