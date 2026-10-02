@@ -11,7 +11,7 @@ Tắm bãi Tiên Sa đàng hoàng nha. Nhưng bãi Tiên Sa không có tiên mà
 tập đào công sự. Bãi tắm đẹp, nước êm, chung quanh có núi che, nếu tạm quên có cái
 cảng ở bên kia mỏm núi thì còn phê ác.
 
-![Hai bố con tôi, nhìn từ trong phòng ăn tường gạch xanh đậm qua cửa kính: hai bóng người ngồi bên bàn cạnh cửa sổ, phía sau là vịnh biển và mỏm núi; phía trước là mấy chiếc ghế trống.](../../assets/blog/bai-tien-sa.jpg)
+![Ảnh chụp vào một tấm gương lớn trong phòng ăn tường gạch xanh đậm: gương phản chiếu hai bố con tôi ngồi bên bàn cạnh cửa sổ, và vịnh biển, mỏm núi bên ngoài; phía trước là mấy chiếc ghế trống.](../../assets/blog/bai-tien-sa.jpg)
 
 Khách sạn vắng khách, đầu tiên thấy một cô chắc người Đức xuống ngồi ăn một mình.
 Mình tự hỏi trường hợp này thế nào, đi ba lô một mình sao không ở trong phố (bãi
