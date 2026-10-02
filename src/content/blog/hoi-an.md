@@ -39,7 +39,8 @@ meal. Night treat would include “lục tàu xá”, again, from a vendor chant
 while walking past our house.
 
 The house was a big one, sitting at a corner right on the edge of the old town. Back
-then, Hội An was just a sleepy town with nothing interesting happening.
+then, Hội An was just a sleepy town with nothing interesting happening. Due to some
+family dispute, the house was sold, on the cheap. Now it is worth millions of pounds.
 
 Then Hội An became a booming tourist town. My mother jointly built a mini hotel, and my
 father was an incidental hotel manager. He loved and hated it in equal amount. He loved
