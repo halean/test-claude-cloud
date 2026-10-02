@@ -3,7 +3,7 @@ title: Your baby is beautiful
 description: "A lift, a couple, a baby, and a compliment Minh rehearsed a hundred ways, except the one that happened."
 pubDate: 2025-01-15
 tags: [stories]
-draft: true
+draft: false
 ---
 
 Minh stepped into the lift, his shopping basket in one hand and a fleeting thought
