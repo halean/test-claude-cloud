@@ -4,7 +4,7 @@ description: "Năm 2018, ông già chín mươi tuổi, một chuyến xe cứu 
 pubDate: 2026-07-02
 tags: [family, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 _Bạn bè bàn chuyện về hưu ở đâu: Phan Thiết, Nha Trang, hay Phú Yên. Nha Trang thì có Vinmec, có người còn bảo: tới lúc cần đi cấp cứu thì có cao tốc Sài Gòn – Nha Trang rồi. Thế là có chuyện số 1 (kể rồi, chép lại nhân chuyện về hưu ở đâu)._
