@@ -7,6 +7,8 @@ lang: vi
 draft: true
 ---
 
+_Bạn bè bàn chuyện về hưu ở đâu: Phan Thiết, Nha Trang, hay Phú Yên. Nha Trang thì có Vinmec, có người còn bảo: tới lúc cần đi cấp cứu thì có cao tốc Sài Gòn – Nha Trang rồi. Thế là có chuyện số 1 (kể rồi, chép lại nhân chuyện về hưu ở đâu)._
+
 Năm đó (2018), ông già (90) xuất huyết bao tử, bà già đưa vào cấp cứu ở PT. Cấp cứu làm xét nghiệm máu xong, mới nói với bà già: “Ca này tụi cháu nghi ung thư, nhưng ở đây thiết bị không đủ, chắc bác đưa bác trai vào thành phố khám lại cho chắc.”
 
 Bà già thuê cái xe cứu thương chạy vào 175. Lúc đó đường chưa có cao tốc, xe cứu thương được ưu tiên, chạy 3 tiếng đồng hồ là tới.
