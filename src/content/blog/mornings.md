@@ -3,7 +3,7 @@ title: Mornings
 description: "Why do I feel good/bad/indifferent in the morning I don't know."
 pubDate: 2026-09-05
 tags: [life, nature]
-draft: true
+draft: false
 ---
 
 Why do I feel good/bad/indifferent in the morning I don't know. I wake up, get down to

@@ -3,7 +3,7 @@ title: The farm
 description: "Two sows gave birth to 13 and 10 piglets. The conversations were remarkably similar to Clarkson's."
 pubDate: 2026-08-31
 tags: [vietnam, food, family]
-draft: true
+draft: false
 ---
 
 My mother's live-in maid's (that's how much different life in Vietnam is) mother's two
