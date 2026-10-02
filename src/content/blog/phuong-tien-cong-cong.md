@@ -1,6 +1,6 @@
 ---
 title: Phương tiện công cộng
-description: "Không biết lái xe hơi, nhà cũng không có xe hơi. Phần 1, Kuala Lumpur: một cái vé kết hợp và một câu lệnh SQL. Phần 2, Sài Gòn: xe buýt 6k, vé CCCD, và tàu điện ngầm mới toanh."
+description: "Không biết lái xe hơi, nhà cũng không có xe hơi. Phần 1, Kuala Lumpur: một cái vé kết hợp và một câu lệnh SQL. Phần 2, Sài Gòn: xe buýt 6k, vé CCCD, và tàu điện ngầm mới toanh. Phần 3: hai chiếc xích lô quanh chợ Bến Thành."
 pubDate: 2026-07-21
 tags: [travel, stories]
 lang: vi
@@ -103,3 +103,15 @@ gấp đôi. Máy in vé reo liên tục: vé thường, vé trợ giá, vé mi�
 
 Tôi xuống trạm gần nhà, gặp anh xe ôm. Anh nói: “Lên tôi chở về, rồi cho nhiêu thì
 cho.” (Chắc chắn là 15–20k rồi.)
+
+## 3. Xích lô
+
+Tối hôm qua hai bố con leo lên xe bus đi chợ Bến Thành. Ý đồ là đi ăn tối rồi dạo Bùi Viện. Tới chợ Bến Thành thì chân đau quá (hồi chiều bước hụt cầu thang trẹo cái bàn chân), lại có hai ông xích lô mời đi, 250k một chiếc một giờ, xích lô đạp chứ không có điện. Cò kè bớt một hồi, mình đồng ý đi 2 chiếc 400k (mấy ổng đồng ý đi một chiếc 250k hai người, nhưng thấy hơi bất tiện). Mình hỏi trả tiền chuyển khoản được không, mấy ổng nói được được.
+
+Hai chiếc xích lô đi vòng chợ Bến Thành, Dinh Độc Lập, nhà thờ Đức Bà, Nhà hát Lớn, đường Đồng Khởi, khách sạn Majestic, dinh Chú Hỏa rồi về Lê Thị Hồng Gấm ăn tối. Đi đường gặp bà mẹ chở hai đứa bé cỡ bảy tuổi, tụi nó mới nhìn thấy xe xích lô ở bên ngoài lần đầu.
+
+Hai anh xích lô, một anh cũng cố gắng giới thiệu, nhưng không có năng khiếu, nói nhà thờ Đức Bà xây từ 1880, gạch phải mang từ Pháp qua để sửa nên mới lâu. Nhà mình ở Black Country xây năm 1890.
+
+Gần 1 tiếng, hai xe tới chỗ quán ăn, xuống xe trả tiền. Một anh móc điện thoại gọi cho thằng cháu, xin nó số tài khoản để chuyển khoản. May quá, trong túi mình còn đủ 400k, còn dư 50k biếu mấy ổng luôn. Chứ không đợi chuyển khoản hay ổng kêu chở đi rút tiền, quá tội.
+
+Nghĩ thấm thía câu nói anh Nam Đào truyền lại năm nào: chân dài làm người mẫu, chân ngắn đạp xích lô.
