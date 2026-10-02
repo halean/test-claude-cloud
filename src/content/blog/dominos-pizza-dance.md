@@ -3,7 +3,7 @@ title: The Domino's pizza dance
 description: "Sunday pizza, a glass window, and a pizza maker whose optimised movements look like a dance. Is this the future of work?"
 pubDate: 2025-04-13
 tags: [food, ai, stories]
-draft: true
+draft: false
 ---
 
 Pizza for Sunday lunch is a ritual. First it is a why-not, then it becomes the
