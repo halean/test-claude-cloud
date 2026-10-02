@@ -4,7 +4,7 @@ description: "Một người lính Mỹ trong đường hầm, một bức vách
 pubDate: 2025-01-20
 tags: [family, history, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Đường hầm ép chặt lấy người lính Mỹ, hơi nóng ngột ngạt và sự im lặng tuyệt đối khuếch đại mọi âm thanh—tiếng lệt sệt của đôi ủng, tiếng sột soạt của quân trang. Anh ta thận trọng bò lên, súng ngắn dẫn đường, ánh đèn pin run rẩy. Ngay phía trước, luồng sáng rọi vào một bức vách đan bằng liếp, được dựng vội vã nhưng đủ chắc chắn để che khuất phía sau. Những bài huấn luyện vang lên trong đầu anh ta: cảnh giác, tiêu diệt mối đe dọa, sống sót. Nhưng đây không phải là một bài tập. Anh ta không thể nhìn xuyên qua vật cản, chỉ cảm nhận được sự hiện diện của một thứ gì đó—hoặc ai đó—ở phía bên kia.

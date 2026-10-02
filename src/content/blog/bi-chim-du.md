@@ -4,7 +4,7 @@ description: "Sáng ngủ dậy là nghĩ: xuống nhà cho chim ăn. Sao giờ 
 pubDate: 2026-03-28
 tags: [nature, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Dạo này mình bị chim dụ. Sáng ngủ dậy là nghĩ: xuống nhà cho chim ăn. Rồi nghĩ, nó

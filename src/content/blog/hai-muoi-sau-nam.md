@@ -4,7 +4,7 @@ description: "Trích hồi ký của ba tôi: những ngày đầu tháng 5 năm
 pubDate: 2025-04-25
 tags: [family, history]
 lang: vi
-draft: true
+draft: false
 ---
 
 _Trích hồi ký của ba tôi (xem thêm [Gánh săn](../ganh-san/)). Tên người và địa chỉ trong bài đã được thay đổi._

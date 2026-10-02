@@ -4,7 +4,7 @@ description: "Một chuyến khám sức khỏe cho mẹ ở Bangkok: Tesco, bà
 pubDate: 2025-02-07
 tags: [travel, family, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Đó là mùa hè năm 2015. Tôi và con trai đến thăm bố mẹ ở thị trấn nghỉ dưỡng Phan Thiết khi mẹ tôi đề nghị một chuyến đi Bangkok để kiểm tra sức khỏe. Bà không hoàn toàn tin tưởng kết quả từ các bệnh viện địa phương và luôn tìm kiếm các chuyến khám sức khỏe ở nước ngoài. Đề xuất nghe có vẻ hợp lý: tôi có thể giúp bà nói chuyện với bác sĩ, và chúng tôi có thể có một kỳ nghỉ nhỏ ở Bangkok. Vì vậy, tôi làm điều mà tôi luôn làm—sắp xếp phương tiện di chuyển và chỗ ở. Tôi đặt một căn hộ Airbnb tiện nghi với nhà bếp, phòng khách, phòng ngủ và một hồ bơi ở tầng dưới cho con trai tôi. Hóa ra còn có cả bể Jacuzzi, cùng với hồ nước nóng và lạnh.

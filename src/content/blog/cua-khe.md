@@ -4,7 +4,7 @@ description: "Nơi nước ngọt va vào nước mặn: giếng nước ngọt 
 pubDate: 2026-02-04
 tags: [vietnam, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Cách cửa Đại Hội An sáu cây số về phía Nam, Cửa Khe nằm ở chỗ nước ngọt va vào nước mặn. Một nhánh lạc của sông Thu Bồn từ vùng cao Quảng Nam chảy xuống, gặp biển, tạo thành một cái cửa hẹp nuôi cả dải bờ. Lạch mang dinh dưỡng; cá tụ về nơi nước đổi vị. Lạch cũng mang nước ngọt. Ở đây, một cái giếng đào đàng hoàng, sâu, gần bãi biển, vẫn có nước ngọt, không lợ. Người ta tắm biển xong, lên bờ, dội lại bằng nước hút lên tại chỗ.

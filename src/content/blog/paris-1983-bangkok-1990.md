@@ -4,7 +4,7 @@ description: "Trích hồi ký của ba tôi: một buổi văn nghệ ở Paris
 pubDate: 2025-04-12
 tags: [family, history, travel]
 lang: vi
-draft: true
+draft: false
 ---
 
 _Trích hồi ký của ba tôi (xem thêm [Gánh săn](../ganh-san/) và [Hai mươi sáu năm](../hai-muoi-sau-nam/)). Là chuyện kể của người thế hệ trước, có thể có những quan điểm không phù hợp. Tên người đã được thay đổi._

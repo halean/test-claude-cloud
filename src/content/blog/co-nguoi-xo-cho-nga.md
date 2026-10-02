@@ -4,7 +4,7 @@ description: "Sáu tháng “consultation”, một quyết định compulsory r
 pubDate: 2026-05-18
 tags: [life, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Kỳ đó trường cũ “consultation” để sa thải cũng hết 6 tháng. Chủ yếu là vận động anh

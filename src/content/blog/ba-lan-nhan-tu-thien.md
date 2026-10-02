@@ -4,7 +4,7 @@ description: "Tâm tư thứ bảy: một tờ năm bảng trong cuốn sách c�
 pubDate: 2026-03-14
 tags: [stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 _Những hành động từ thiện ngẫu nhiên._

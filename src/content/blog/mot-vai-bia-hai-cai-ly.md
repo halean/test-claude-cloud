@@ -4,7 +4,7 @@ description: "Hè 2023, hai Việt kiều và hai bạn MT94 đi nhậu: quán s
 pubDate: 2025-01-15
 tags: [vietnam, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Hôm đó (hè 2023), hai Việt kiều (VK, tôi và một VK khác) cùng hai bạn trai MT94 ở

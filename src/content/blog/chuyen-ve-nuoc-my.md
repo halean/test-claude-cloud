@@ -4,7 +4,7 @@ description: "Mười mấy năm làm việc với một tổ chức Mỹ, nhưn
 pubDate: 2025-01-14
 tags: [travel, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Tôi làm việc với một tổ chức ở Mỹ mười mấy năm, nhưng tôi chỉ mới qua Mỹ hai ba lần. Tôi có thành kiến với nước Mỹ: Phân hoá giàu nghèo, súng ống khắp nơi. Một phần có lẽ cũng do tôi mặc cảm.

@@ -4,7 +4,7 @@ description: "Bãi Tiên Sa không có tiên mà toàn bộ đội. Một khách
 pubDate: 2025-12-27
 tags: [vietnam, travel, stories]
 lang: vi
-draft: true
+draft: false
 ---
 
 Tắm bãi Tiên Sa đàng hoàng nha. Nhưng bãi Tiên Sa không có tiên mà toàn bộ đội thực
