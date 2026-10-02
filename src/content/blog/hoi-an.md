@@ -20,7 +20,9 @@ Chí Minh City.
 The next morning we would stop some walking vendor balancing their merchandise on two
 sides of a bamboo pole on their shoulder for “bánh bèo”. “Bánh bèo” is a very good
 trick, the same trick they are deploying in Michelin stars these days. The portion is
-very small, contained in a bowl smaller than half a child's hand. Main ingredients are
+very small, contained in a bowl smaller than half a child's hand. But one never eats one bowl: the pride was with the stack
+of empty bowls, who can eat the most. Small bowls, many of them, make less go for more.
+Back then, labour was cheap and materials were not. Main ingredients are
 steamed rice flour, some fried spring onion, finely shredded prawn, and the “secret
 dipping sauce”, which probably was prawn powder plus the right amount of condiments. I
 would then draw some water from the mansion's well using rope and scoop, flicking the
