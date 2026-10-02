@@ -45,7 +45,7 @@ Hẹn gặp lại.”
 
 Tôi có cảm giác cậu chạy với nhiều thứ mang theo bên trong chứ không chỉ bên ngoài.
 Có lẽ ai đó khuyên thử chạy bộ và thử bắt chuyện với người lạ — và cậu bé làm cả
-hai cùng một lúc. Và cậu cố tỏ ra như thể vẫn thường chạy và trò chuyện như thế.
+hai cùng một lúc. Và cậu cố tỏ ra như thể vẫn thường chạy và chuyện như thế.
 
 Tôi ghi lại chuyện này, vì tôi chạy một mình. Tôi muốn đoán xem trong đầu người bạn
 đồng hành bất chợt ấy nghĩ gì. Trong một hai phút, tôi là người cùng hội của cậu
