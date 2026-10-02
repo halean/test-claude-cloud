@@ -1,7 +1,7 @@
 ---
 title: Two pound
 description: A hot run, a bridge, a spilled beer, and a stand-off that could have gone either way.
-pubDate: 2026-06-19
+pubDate: 2026-07-12
 tags: [running, stories]
 draft: false
 ---
@@ -47,3 +47,31 @@ guy, and the guy could have collapsed, or something.
 We live in a society in which none of the outcomes is predetermined, and things
 could easily go one way or another. We depend on individuals to make the right
 decisions, and many wrongs happen because somebody makes a wrong decision.
+
+---
+
+## Bản tiếng Việt
+
+<div lang="vi">
+
+Người giàu lên núi tập thể thao, người nghèo giữa trưa nắng chạy ra tập, người ta nói thế. Minh thường chạy lúc 12 giờ, nhưng vì một lý do khác: đó là lúc anh chính thức biết: sáng nay không có việc.
+
+Đường chạy hôm nay dọc kênh, lên cầu, rồi vòng về trung tâm, kết thúc ở siêu thị. Đợt nắng nóng bất thường rút ngắn đường chạy, nhưng km3 vẫn quá khó nhá. Đoạn lên cầu, bình thường đã dốc, hôm nay như vách đứng.
+
+Một người đàn ông đi giữa lối đi bộ, tay cầm lon bia. Minh lách sang bên phải, nhưng không kịp. Lon bia đang đưa lên miệng va phải tay Minh. Mải chạy, Minh không để ý, cho đến khi nghe: “Thằng kia, đứng lại”.
+
+Dừng lại ở giữa cầu, Minh quay lại, đối diện với một người đàn ông giận dữ: “mày làm rớt lon bia của tao, làm ướt đôi giày của tao rồi!” “Cho tôi xin lỗi, một tai nạn đáng tiếc” “Đường rộng sao không chạy, chạy va vào tao?” “Tôi xin lỗi, một tai nạn” “Xin lỗi cái gì” “Thế anh muốn tôi phải làm sao đây”
+
+Người đàn ông ngập ngừng. Cuối cùng ông ta nói: “Đền cho tao lon bia, ít nhất 2 bảng”. Minh nói dối: “tôi không mang tiền”, trong túi áo có 15 bảng, túi quần 20, Minh không muốn cho người đàn ông thấy tờ 20 bảng của mình.
+
+Ông ta nhìn qua cái điện thoại Minh đang cầm, một cái iPhone đời cũ, và nói, không thuyết phục lắm: “mày có điện thoại tốt mà không có tiền à?” Minh chỉ đứng, thở, và lắc đầu, mắt nhìn vào đâu đó bên cạnh người đàn ông.
+
+Ông ta nắm tay lại thành nắm đấm, rồi nhứ nhứ: “mày cương với tao à”. Minh chỉ đứng, thở, và lắc đầu: “anh muốn tôi làm gì?”
+
+Người đàn ông giận dữ quay đi: “Lần này tao tha cho mày, thằng cứt chó”. Minh vẫn đứng thở, rồi đi bộ qua cầu, ngược lại hướng người đàn ông.
+
+Bộp một tiếng, lon bia bay vèo qua Minh, rớt xuống đường cách anh độ 10m. Chắc người đàn ông không nhằm vào Minh.
+
+Minh đi bộ thêm độ 50 m nữa, rồi cất bước chạy tiếp, nhưng buổi tập không còn ý nghĩa.
+
+</div>
