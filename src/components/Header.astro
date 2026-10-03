@@ -20,7 +20,7 @@ const posted = built.toISOString().slice(0, 10).replaceAll('-', '.');
   <div class="notice">
     <div class="container">
       <span class="label">Notice · posted {posted} · still in effect</span>
-      <a class="text" lang="vi" href={url(`blog/${notice.slug}/`)}>{notice.text}</a>
+      <a class="text" lang={notice.lang} href={url(`blog/${notice.slug}/`)}>{notice.text}</a>
     </div>
   </div>
   <nav class="container">
