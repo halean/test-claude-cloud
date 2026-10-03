@@ -29,7 +29,7 @@ Khi ngồi vào uống nước, điều đầu tiên mạ tôi hỏi là: con n�
 
 Hai mươi sáu năm, tôi mới gặp lại mẹ tôi. Hơn một phần tư thế kỷ! Chỉ có dân tộc ta mới chịu đựng được sự chia li ghê gớm như thế này.
 
-Lần lượt mấy đứa con của Hồng được dẫn ra giới thiệu. Hồi tôi đi Việt Bắc, ghé thăm Hồng ở trường Phan Châu Trinh tân cư ở Cẩm Khê, Hồng chỉ bằng đứa con gái lớn của nó hiện nay!
+Lần lượt mấy đứa con của Hồng được dẫn ra giới thiệu. Hồi tôi đi Việt Bắc, ghé thăm Hồng ở trường Phan Châu Trinh tản cư ở Cẩm Khê, Hồng chỉ bằng đứa con gái lớn của nó hiện nay!
 
 Rồi Tùng đi đâu về, cũng đoán ra ngay ông cán bộ giải phóng đang ngồi nói chuyện với bà nội là ai: có phải chú Tâm không bà?
 

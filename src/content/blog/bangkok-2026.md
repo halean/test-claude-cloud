@@ -7,7 +7,7 @@ draft: false
 ---
 
 Bangkok 2026. We stopped here for 24 hours on the way to Sài Gòn. It was partly for me
-to uncompress, for my son to revisit Bangkok. We checked in the hotel, had a rest, then
+to decompress, for my son to revisit Bangkok. We checked in the hotel, had a rest, then
 got down to the river side. The smell of the river, according to the son, “just like
 Vietnam”, before we saw the river. Some consultation with Claude suggested a ferry trip.
 We did it, gladly, from River City to IconSiam.
