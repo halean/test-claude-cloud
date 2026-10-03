@@ -38,6 +38,7 @@ always sing at giỗ? Why?
 
 “Người nhặt rau, người kho cá”, the article said. Even the word is northern: in the South,
 we say lặt rau. Nobody does that. Cá kho is an everyday
-dish; you just don't serve cá kho at a banquet. They are making sure the deep fried fish
+dish. You don't serve cá kho at a banquet, as cá kho gets better the more you reheat it,
+and it would be weird to serve the reheated dish. They are making sure the deep fried fish
 are crunchy and standing up. I would feel wronged if somebody described my banquet
 preparation as nhặt rau, kho cá.
