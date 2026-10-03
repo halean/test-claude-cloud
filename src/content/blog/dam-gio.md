@@ -3,7 +3,7 @@ title: Đám giỗ
 description: "They are making sure the deep fried fish are crunchy and standing up. I would feel wronged if somebody described my banquet preparation as nhặt rau, kho cá."
 pubDate: 2026-08-30
 tags: [vietnam, family, food]
-draft: true
+draft: false
 ---
 
 _I read an article: “Tuần trước, tôi theo chân chị về miền Tây ăn giỗ.” Loud karaoke
