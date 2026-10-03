@@ -3,7 +3,7 @@ title: Năm 1440, tại Mainz
 description: "The official answer guide says young people should “biết kiểm chứng, phản biện thông tin do AI cung cấp”. The same guide makes students quote the velvet curtain as evidence."
 pubDate: 2026-06-14
 tags: [vietnam, language, ai]
-draft: true
+draft: false
 ---
 
 _Đề thi văn tốt nghiệp phổ thông 2026 gây xôn xao Steve Jobs. Không thấy ai bàn câu đầu
