@@ -35,3 +35,17 @@ cầu và bản sắc địa phương đặc trưng của một thành phố nh�
 
 Hy vọng đây là một câu trả lời hợp lý cho bài toán sử dụng "To Ben Thanh" hay "For Ben
 Thanh" cho trạm dừng Metro Bến Thành - Suối Tiên.
+
+![Biển trên tường sân ga Ryde Esplanade, đảo Wight, Anh: “Alight here for Hovercraft / Next stop for Fastcat Ferry”.](../../assets/blog/ryde-alight-here-for.jpg)
+
+_Sân ga Ryde Esplanade, đảo Wight: “Alight here for Hovercraft”. Ảnh: Jaggery,
+[Geograph](https://www.geograph.org.uk/photo/4661879),
+[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)._
+
+---
+
+**Tái bút.** Đây là lần đầu tiên trong đời tôi viết gửi báo. Cuộc tranh luận “to” hay
+“for” làm tôi bực quá, nhất là khi một blogger nổi tiếng gọi tấm biển là “ngô nghê”. Tôi
+thấy mình phải nói một điều gì đó. Bình thường thì chả bao giờ tôi gửi bài lên đấy làm
+gì, chẳng qua là cảm xúc nó trào ra thôi. Ở Anh, sân ga vẫn ghi “alight here for…”, “next
+stop for…”, như tấm biển ở trên. Quy ước của ai, ngô nghê với ai?
