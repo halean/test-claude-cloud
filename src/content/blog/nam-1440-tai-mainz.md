@@ -31,13 +31,13 @@ in a minute.
 Perhaps it is the habit of the literature ones, who thought they could write their way
 out of everything: write “Năm 1440, tại một xưởng cơ khí nhỏ…” and get away with it,
 because it feels so right. Or “Hamlet có lẽ đã tan biến vào hư không ngay sau khi tấm màn
-nhung của nhà hát Globe vừa khép lại”. The Globe was an open-air theatre; it had no velvet
-curtain to close. The velvet curtain is a writer's trick, a detail to make you see the
-ending. Those tricks are about to get trampled over: here come AIs that can write
+nhung của nhà hát Globe khép lại”. The Globe was an open-air theatre; it had no velvet
+curtain to close. The velvet curtain is a writer's trick, a detail to invoke the sense
+of ending. Those tricks are about to get trampled over: here come AIs that can write
 smoother, faster, even more accurate. A sentence that sounds that smooth is now a sign for
 checking, not a sign of craft.
 
-The [official answer guide](https://dcdn.dantri.com.vn/2026/06/19/1-dap-an-ngu-van-1781865369049.pdf)
+_(Updated 19 June)_ The [official answer guide](https://dcdn.dantri.com.vn/2026/06/19/1-dap-an-ngu-van-1781865369049.pdf)
 says young people should “biết kiểm chứng, phản biện thông tin do AI cung cấp”. Nobody
 applied it to the extract; the same guide makes students quote the velvet curtain as
 evidence. They don't practise what they preach. And the irony is in the text itself:
