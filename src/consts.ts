@@ -16,12 +16,12 @@ export const SOCIALS = [
 // Stale notices, lines from the stories. One is pinned at each build and
 // stays up, unchanged, until the next one.
 export const NOTICES = [
-  '5°C không phải là thời tiết để nán lại',
-  'Đứng lại! Đứng lại! Đứng lại!',
-  'Tôi đã được hướng dẫn, rất kĩ',
-  'This beer cost me two pound',
-  'Xanh, 152 nhịp một phút',
-  'Ăn thêm đi con',
-  'Nghề lập trình chỉ có hiện tại',
-  'Tới đâu thì tới',
+  { text: '5°C không phải là thời tiết để nán lại', slug: 'dung-lai' },
+  { text: 'Đứng lại! Đứng lại! Đứng lại!', slug: 'dung-lai' },
+  { text: 'Tôi đã được hướng dẫn, rất kĩ', slug: 'mot-thanh-pho-mot-buoi-sang' },
+  { text: 'This beer cost me two pound', slug: 'two-pound' },
+  { text: 'Xanh, 152 nhịp một phút', slug: 'do-lua-doi' },
+  { text: 'Ăn thêm đi con', slug: 'an-them-di-con' },
+  { text: 'Nghề lập trình chỉ có hiện tại', slug: 'chuyen-thu-gian-chu-nhat' },
+  { text: 'Tới đâu thì tới', slug: 'dung-lai' },
 ];

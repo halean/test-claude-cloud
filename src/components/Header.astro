@@ -20,7 +20,7 @@ const posted = built.toISOString().slice(0, 10).replaceAll('-', '.');
   <div class="notice">
     <div class="container">
       <span class="label">Notice · posted {posted} · still in effect</span>
-      <span class="text" lang="vi">{notice}</span>
+      <a class="text" lang="vi" href={url(`blog/${notice.slug}/`)}>{notice.text}</a>
     </div>
   </div>
   <nav class="container">
@@ -41,7 +41,11 @@ const posted = built.toISOString().slice(0, 10).replaceAll('-', '.');
     display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25rem 0.9rem; padding-top: 0.4rem; padding-bottom: 0.4rem;
   }
   .notice .label { font-size: 0.62rem; color: var(--faint); }
-  .notice .text { font-family: var(--font-display); font-style: italic; font-size: 0.95rem; color: var(--muted); }
+  .notice .text {
+    font-family: var(--font-display); font-style: italic; font-size: 0.95rem; color: var(--muted);
+    text-decoration: none; border-bottom: 1px dotted var(--faint);
+  }
+  .notice .text:hover { color: var(--strong); }
   nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 60px; }
   .brand {
     font-family: var(--font-display); font-weight: 500; font-style: italic; font-size: 1.2rem;
