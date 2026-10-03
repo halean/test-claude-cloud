@@ -1,6 +1,6 @@
 ---
 title: Đám giỗ
-description: "They are making sure the deep fried fish are crunchy and standing up. I would be very offended if my banquet preparation was described as nhặt rau, kho cá."
+description: "They are making sure the deep fried fish are crunchy and standing up. I would feel wronged if somebody described my banquet preparation as nhặt rau, kho cá."
 pubDate: 2026-08-30
 tags: [vietnam, family, food]
 draft: true
@@ -19,7 +19,7 @@ giỗ was like that, minus the yet to be invented karaoke speakers.
 The đám giỗ of my childhood were like this: close elder relatives always turned up early
 with their own dishes, placed on the altar, the incense lighted. Then they talked, not
 necessarily about the one on the altar, being dead a long time ago. Then younger
-relatives turned up, lighted some candle to one they never met, then sat down and ate and
+relatives turned up, lighted even more incense to one they never met, then sat down and ate and
 drank. My family always debated about whether to invite a drunkard relative. My father
 did not want to, my grandmother said otherwise: the giỗ was for my grandfather. We always
 ended up inviting him. The feasts were always with alcohol, beers mostly, at the time
@@ -36,7 +36,8 @@ the city dwellers can join, and combine several ancestors together. I bet the gi
 attended was just like that. A simple question would have unlocked so much: do you
 always sing at giỗ? Why?
 
-“Người nhặt rau, người kho cá”, the article said. Nobody does that. Cá kho is an everyday
+“Người nhặt rau, người kho cá”, the article said. Even the word is northern: in the South,
+we say lặt rau. Nobody does that. Cá kho is an everyday
 dish; you just don't serve cá kho at a banquet. They are making sure the deep fried fish
-are crunchy and standing up. I would be very offended if my banquet preparation was
-described as nhặt rau, kho cá.
+are crunchy and standing up. I would feel wronged if somebody described my banquet
+preparation as nhặt rau, kho cá.
