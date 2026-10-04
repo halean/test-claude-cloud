@@ -9,7 +9,7 @@ draft: false
 
 Đường hầm ép chặt lấy người lính Mỹ, hơi nóng ngột ngạt và sự im lặng tuyệt đối khuếch đại mọi âm thanh—tiếng lệt sệt của đôi ủng, tiếng sột soạt của quân trang. Anh ta thận trọng bò lên, súng ngắn dẫn đường, ánh đèn pin run rẩy. Ngay phía trước, luồng sáng rọi vào một bức vách đan bằng liếp, được dựng vội vã nhưng đủ chắc chắn để che khuất phía sau. Những bài huấn luyện vang lên trong đầu anh ta: cảnh giác, tiêu diệt mối đe dọa, sống sót. Nhưng đây không phải là một bài tập. Anh ta không thể nhìn xuyên qua vật cản, chỉ cảm nhận được sự hiện diện của một thứ gì đó—hoặc ai đó—ở phía bên kia.
 
-Chú mình, ở bên kia bức liếp, ánh mắt dán chặt vào bóng dáng lơ mờ của người lính Mỹ được chiếu sáng bởi ánh sáng từ đầu hầm. Ông có thể nhìn thấy mọi thứ: chuyển động chậm rãi, khẩu súng, sự căng thẳng trong tư thế của anh ta. Ngược lại, người lính Mỹ hoàn toàn không nhìn thấy ông.
+Chú mình, ở bên kia bức liếp, ánh mắt dán chặt vào bóng dáng lờ mờ của người lính Mỹ được chiếu sáng bởi ánh sáng từ đầu hầm. Ông có thể nhìn thấy mọi thứ: chuyển động chậm rãi, khẩu súng, sự căng thẳng trong tư thế của anh ta. Ngược lại, người lính Mỹ hoàn toàn không nhìn thấy ông.
 
 Trong khoảnh khắc thoáng qua, hai thế giới của họ cân bằng mong manh. Khẩu súng ngắn trong tay chú, đạn đã lên nòng, lựu đạn, lựa chọn cuối cùng, trong tay kia. Ông có thể bóp cò, hạ gục người lính Mỹ—nhưng đổi với giá nào? Toàn bộ đội quân phía trên sẽ không do dự. Họ sẽ dùng lựu đạn càn quét hầm, đảm bảo không một ai sống sót. Chú mình giữ im lặng, gần như nín thở, duyệt lại từng lựa chọn. Mỗi lựa chọn đều là lựa chọn cuối cùng.
 

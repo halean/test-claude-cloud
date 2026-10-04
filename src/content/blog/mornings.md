@@ -22,7 +22,7 @@ then redundancy, then unstable work, then unstable feelings.
 All in my head, I know, but knowing does not help. Meditation will quieten these down, I
 know, but meditation, like running, has to be done regularly, or you get detrained.
 Medication will help in the way running and meditating help: you have to keep using
-them with diminished returns.
+them with diminishing returns.
 
 So what do I really want? I want a will to try, a will to believe that things are worth
 doing, that there are more good mornings waiting, less bad mornings to fret about.

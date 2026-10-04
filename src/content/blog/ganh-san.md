@@ -12,11 +12,11 @@ _Trích hồi ký của ba tôi. Con mang trong [Tết những năm đó](../tet
 “Gánh săn”: 1 xạ thủ, 1 rọi đèn, 1 lái xe và 1–2 “điếu đóm” rời thị xã Buôn Mê
 Thuột đi về hướng Đắc Min rồi rẽ vào đường T15 (đường biên giới) qua các đồn biên
 phòng số 7, số 6, số 5. Xẩm xẩm tối, chiếc xe đi săn dừng lại nấu cơm và chuẩn bị
-lên đàn, lên đèn. Xe thường là xe Jeep và sau này là xe Uát. Một bộ khung dàn bằng
+lên dàn, lên đèn. Xe thường là xe Jeep và sau này là xe Uát. Một bộ khung dàn bằng
 tre hoặc bằng sắt đã chuẩn bị sẵn cùng với các dây buộc bằng cao su săm ô tô. Hai
 cây đèn rọi được chế từ đèn pha ô tô, có tay cầm, nối với bình ắc quy ô tô.
 
-Sau khi cơm nước xong, trời xẩm tối, xe bắt đầu chuyển săn. Hai người cầm đèn rọi,
+Sau khi cơm nước xong, trời xẩm tối, xe bắt đầu chuyến săn. Hai người cầm đèn rọi,
 trong đó có một người rọi chính, soi hai bên đường để phát hiện thú qua các đốm
 mắt. Khi phát hiện, người rọi chính làm động tác “chấm” đèn ra hiệu cho tài xế
 giảm tốc độ và đi theo hướng dẫn của mình. Không ai nói câu nào, chỉ ra hiệu cho
