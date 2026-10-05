@@ -1,7 +1,7 @@
 ---
 title: Bangkok, mùa hè 2015
 description: "Một chuyến khám sức khỏe cho mẹ ở Bangkok: Tesco, bà nấu cho con và cháu, một câu lạc bộ ở Soi Cowboy, và một đêm có khủng bố."
-pubDate: 2025-02-07
+pubDate: 2025-02-05
 tags: [travel, family, stories]
 lang: vi
 draft: false

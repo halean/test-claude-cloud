@@ -1,7 +1,7 @@
 ---
 title: Living my dream, at 49
 description: "My life so far has mostly been about other people's dreams. Then, at 49, jobless, I started writing, and running, for me."
-pubDate: 2025-01-01
+pubDate: 2025-01-25
 tags: [life]
 ---
 

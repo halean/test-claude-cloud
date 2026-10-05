@@ -1,7 +1,7 @@
 ---
 title: Một vại bia, hai cái ly
 description: "Hè 2023, hai Việt kiều và hai bạn MT94 đi nhậu: quán sang nhất Sài Gòn để chắc bia thật, một vại bia chia hai ly, và 100 nghìn tiền bo trên chuyến xe buýt 6 nghìn."
-pubDate: 2025-01-15
+pubDate: 2025-01-10
 tags: [vietnam, stories]
 lang: vi
 draft: false

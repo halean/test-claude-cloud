@@ -1,7 +1,7 @@
 ---
 title: Đi rước dâu ở Mỹ Tho
 description: "Năm 1999, hai đứa đại diện cơ quan đi rước dâu, một cô dâu thấy tôi quen quen, và một đám cưới hai lần."
-pubDate: 2025-01-15
+pubDate: 2025-01-30
 tags: [vietnam, stories]
 lang: vi
 draft: false

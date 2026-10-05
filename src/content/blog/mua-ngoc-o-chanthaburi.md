@@ -1,7 +1,7 @@
 ---
 title: Mua ngọc ở Chanthaburi
 description: "Một bộ đồ nghề buôn đá quý, một sàn giao dịch ở thủ đô đá quý của Thái, và một cặp ngọc lục bảo mua bán giữa hai người không bao giờ gặp nhau."
-pubDate: 2025-01-15
+pubDate: 2025-01-13
 tags: [travel, stories]
 lang: vi
 draft: false

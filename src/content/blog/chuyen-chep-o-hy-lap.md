@@ -1,7 +1,7 @@
 ---
 title: Chuyện chép ở Hy Lạp
 description: "Kefalonia: một đĩa salad nhặt nhạnh cho khách đói, miếng Kalamata olive đầu tiên, và anh làm vườn nhìn cô chủ bên hồ bơi."
-pubDate: 2025-01-15
+pubDate: 2025-01-12
 tags: [travel, food, stories]
 lang: vi
 draft: false

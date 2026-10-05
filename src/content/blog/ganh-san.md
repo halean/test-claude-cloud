@@ -1,7 +1,7 @@
 ---
 title: Gánh săn
 description: "Trích hồi ký của ba tôi: một chuyến đi săn đêm trên đường T15 ở Buôn Mê Thuột, đèn rọi, xe Jeep, và những tín hiệu không lời."
-pubDate: 2026-10-01
+pubDate: 2025-04-13
 tags: [family, history]
 lang: vi
 draft: false
