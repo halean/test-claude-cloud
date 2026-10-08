@@ -13,7 +13,7 @@ from me. My father was born in Hội An, my grandfather had a mansion in Hội A
 summer holiday back in the 80s would inevitably include a two-day road trip to Hội An.
 Arriving late at night, we would unpack, and then walked straight to the night food
 market, and ate chicken porridge. It was so good for a ten year old: after a long day
-of travelling, half carsick, half bored, the porridge went straight into blood stream.
+of travelling, half carsick, half bored, the porridge went straight through the intestinal lining, into the bloodstream, then into every single cell.
 And there was more chicken than at home, as things were cheaper in Hội An than in Hồ
 Chí Minh City.
 
