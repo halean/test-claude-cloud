@@ -12,6 +12,6 @@ The article reminded me of my father. In 1970 his firstborn was not yet one, and
 
 In 1990, our house had its own well. The pump looked exactly like the ones in Bãi Xép: the same grey PVC, the same cheerful red stopcocks on the pipe used for priming. More often than not, you poured water in before you could pump water out. When people came to rent a room or two, they sent a sample to the Pasteur lab, and it came back clean. For the floods, there was a hand pump.
 
-There was mains water too, but it was only reliable at night. After dark it filled a tank on the ground, and a float shut the tap when the tank was full. The pump lifted the water to a tank on the roof, where two floats switched the pump on when the level fell and off when it was full. All night, now and then, a click.
+There was mains water too, but it was only reliable at night. After dark it filled a tank on the ground, and a float shut the tap when the tank was full. The pump lifted the water to a tank on the roof, where two floats switched the pump on when the level fell and off when it was full. At night, now and then, a click, then the pump running.
 
 Bãi Xép is three kilometres from a software campus, and a little over ten from the centre of Quy Nhơn. The plan is a pumping station for the whole village: 500 cubic metres a day, 21 billion đồng. The province has asked for a proposal.
