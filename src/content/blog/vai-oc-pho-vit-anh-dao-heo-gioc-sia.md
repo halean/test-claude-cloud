@@ -3,7 +3,7 @@ title: Vải ốc pho, vịt anh đào, heo giọc sia
 description: "1986, Ho Chi Minh City: Oxford cloth, Cherry Valley ducks and Yorkshire pigs in a subsidy-era household."
 pubDate: 2026-11-06
 tags: [vietnam, family, stories]
-draft: false
+draft: true
 ---
 
 _1986, Ho Chi Minh City_
