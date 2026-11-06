@@ -8,7 +8,7 @@ draft: true
 
 _1986, Ho Chi Minh City_
 
-A good length of vải ốc pho was given to my mum, as thanks for asking my father to send a letter to somebody about something. My mum asked her niece: "Do you know a good tailor? An needs a pair of trousers."
+A good length of vải ốc pho was given to my mum by a relative, as thanks for asking my father to send a letter to somebody about something. My mum asked her niece: "Do you know a good tailor? An needs a pair of trousers."
 
 In the backyard, my brother was chopping banana stems while minding the pot of bran on the fire. My father was bathing the pigs, two of them, one a giọc sia, one not very memorable. Perhaps he was thinking about how these pigs would turn into the steel frame for the Honda engine he had bought on his trip to Thailand.
 
