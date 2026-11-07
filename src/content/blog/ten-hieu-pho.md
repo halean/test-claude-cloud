@@ -27,7 +27,7 @@ Tháng này...
 
 "Bình luận về từng cluster."
 
-Rồi tôi ngồi nhìn các chiêu thức được thi triển ngay trước mắt. Nhiều chiêu tôi thường sử dụng, như chia cụm k-means một chiều theo độ dài tên. Vài chiêu tôi biết nhưng lười, ít xài, như xem các quán trùng tên có nằm rải rác khắp thành phố không, để biết là mười quán Phở Hùng khác nhau chứ không phải một quán bị đếm mười lần. Có chiêu tôi chưa từng biết, như truy vấn thẳng kho dữ liệu Overture Maps trên mạng để lấy địa điểm. Vài chiêu tôi chỉ nghe chứ chưa bao giờ thấy, ví dụ như chiêu download apk, dịch ngược, tìm url và API key (không phải dự án này).
+Rồi tôi ngồi nhìn các chiêu thức được thi triển ngay trước mắt. Nhiều chiêu tôi thường sử dụng, như chia cụm k-means một chiều theo độ dài tên. Vài chiêu tôi biết nhưng lười, ít xài, như xem các quán trùng tên có nằm rải rác khắp thành phố không, để biết là mười quán Phở Hùng khác nhau chứ không phải một quán bị đếm mười lần. Có chiêu tôi chưa từng biết, như truy vấn thẳng kho dữ liệu Overture Maps trên mạng để lấy địa điểm. (Ở một dự án khác, tôi đã tận mắt thấy điều trước đây chỉ nghe giang hồ đồn: dịch ngược file nhị phân để tìm API key.)
 
 Kết quả: trong 1.056 hiệu phở trên bản đồ số TP.HCM, tên một hai tiếng vẫn chiếm gần một nửa. Chỉ có điều, mười quán cùng tên Phở Hùng, và cái tên dài nhất, “Phở Gà Ta Số 1 Hoàn Kiếm Hà Nội Phở Ngon Hà Huy Giáp”, được sinh ra từ áp lực tối ưu tìm kiếm trên internet.
 
