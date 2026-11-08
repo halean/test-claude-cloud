@@ -6,7 +6,7 @@ tags: [stories]
 draft: false
 ---
 
-Working with AIs is very much like going to the gym.
+Working with AIs is very much like going to the [gym](../phong-ta-1992/).
 
 The ideology is the same. We don't need that much software engineering, form filling, receipt reading, contract preparing or court case arguing power, just as we no longer need muscle power to lift things, to run from A to B, or to jump over a dike while being chased by a sabre-toothed tiger. But we enjoy going to the gym to work our muscles, and we will enjoy sparring with AIs to work our brains.
 
