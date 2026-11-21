@@ -44,8 +44,8 @@ Exactly.
 
 A few more musicians joined.
 
-<audio controls preload="none" src="../../audio/only-do-and-la-layers.mp3"></audio>
+<audio controls preload="none" src="../../audio/only-do-and-la-layers-v2.mp3"></audio>
 
-<a href="../../audio/only-do-and-la-layers.mp3" download="only-do-and-la-layers.mp3">Download</a>
+<a href="../../audio/only-do-and-la-layers-v2.mp3" download="only-do-and-la-layers-v2.mp3">Download</a>
 
 <a href="../../scores/song-1995-two-guitars.pdf">Score for two guitars (PDF)</a>

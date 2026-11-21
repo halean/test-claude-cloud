@@ -51,8 +51,8 @@ Toàn đô với la.
 
 Thêm vài nhạc công vào chơi cùng.
 
-<audio controls preload="none" src="../../audio/only-do-and-la-layers.mp3"></audio>
+<audio controls preload="none" src="../../audio/only-do-and-la-layers-v2.mp3"></audio>
 
-<a href="../../audio/only-do-and-la-layers.mp3" download="only-do-and-la-layers.mp3">Tải về</a>
+<a href="../../audio/only-do-and-la-layers-v2.mp3" download="only-do-and-la-layers-v2.mp3">Tải về</a>
 
 <a href="../../scores/song-1995-two-guitars.pdf">Bản nhạc cho hai guitar (PDF)</a>
