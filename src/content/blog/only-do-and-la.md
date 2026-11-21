@@ -39,3 +39,13 @@ So, to my musical friends, about that song. It opens with a three-note anacrusis
 Only do and la.
 
 Exactly.
+
+---
+
+A few more musicians joined.
+
+<audio controls preload="none" src="../../audio/only-do-and-la-layers.mp3"></audio>
+
+<a href="../../audio/only-do-and-la-layers.mp3" download="only-do-and-la-layers.mp3">Download</a>
+
+<a href="../../scores/song-1995-two-guitars.pdf">Score for two guitars (PDF)</a>

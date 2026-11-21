@@ -46,3 +46,13 @@ Trên đường xây dựng, tôi học thêm được nhiều thứ, về bài 
 Nó mở đầu bằng ba nốt lấy đà (anacrusis). Nó là một đoạn nhạc hai câu (period): câu đầu bỏ lửng ở đô, chữ “love”, câu sau về nhà ở la, chữ “pain”. Nó đi qua lại giữa giọng thứ và giọng trưởng song song. Đặt bè trầm đi xuống la, sol, fa, mi bên dưới là có kết Andalusia (Andalusian cadence). Cho bè trầm né sang một bước ở chữ “love” là thành kết ngắt (deceptive cadence). Nốt si dài thứ hai là nốt dựa (appoggiatura). Còn hợp âm tôi sẽ kết bài, đô, mi, sol, la, là hợp âm thêm sáu (added sixth): Đô trưởng và La thứ cùng một lúc.
 
 Toàn đô với la.
+
+---
+
+Thêm vài nhạc công vào chơi cùng.
+
+<audio controls preload="none" src="../../audio/only-do-and-la-layers.mp3"></audio>
+
+<a href="../../audio/only-do-and-la-layers.mp3" download="only-do-and-la-layers.mp3">Tải về</a>
+
+<a href="../../scores/song-1995-two-guitars.pdf">Bản nhạc cho hai guitar (PDF)</a>
