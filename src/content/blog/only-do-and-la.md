@@ -20,6 +20,8 @@ do do do si– si la si– la la
 
 <audio controls preload="none" src="../../audio/only-do-and-la.mp3"></audio>
 
+<a href="../../audio/only-do-and-la.mp3" download="only-do-and-la.mp3">Download</a>
+
 I played my pieces to my musical friends. They said: "Only do and la."
 
 I gave up. My guitar and keyboard playing were not any better.

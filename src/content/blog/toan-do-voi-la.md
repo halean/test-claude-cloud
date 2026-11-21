@@ -23,6 +23,8 @@ do do do si– si la si– la la
 
 <audio controls preload="none" src="../../audio/only-do-and-la.mp3"></audio>
 
+<a href="../../audio/only-do-and-la.mp3" download="only-do-and-la.mp3">Tải về</a>
+
 Đem nhạc cho mấy đứa bạn chơi nhạc nghe. Tụi nó bảo: “Toàn đô với la.”
 
 Giờ là 2026, có chút thời gian, có chút subscription.
